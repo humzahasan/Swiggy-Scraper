@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Chicken Cheese Chilli Momo",
+    "price": "265",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Authentic Chicken kothey version with melted Cheese and wrapped with Chilli seasoning. Served with the dash of Spring onion."
+  },
+  {
+    "name": "Chicken Chilli Momo",
+    "price": "205",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Authentic Chicken kothey blended with Chilli seasoning mix. Served with it's Rustic Magic flavors."
+  },
+  {
+    "name": "Corn & Cheese Chilli Momo",
+    "price": "255",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Enfused Corn and Cheese Momo with fusion magic seasoning of chilli flavours. Served with a colorful delight."
+  },
+  {
+    "name": "Chicken Chilli Momo [10 Pieces], Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xjjrtbtlh93kyj0utdzs",
+    "category": "wow-momo",
+    "desc": "2 Plate Chicken Chilli Momo + 2  Chicken Moburg + 2 Pepsi [250ml]  [Meal for 2]"
+  },
+  {
+    "name": "Chicken Cheese Steam Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iwky2okwnrdif0fvf9d7",
+    "category": "wow-momo",
+    "desc": "An all-time favourite, Mouth-watering Momos stuffed with mix of Juicy boneless Chicken, Cheese, Coriander, Herbs and Indian Spices (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Schezwan Steam Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/btgqfuldyaydjowg74y7",
+    "category": "wow-momo",
+    "desc": "Minced soft Juicy boneless Chicken, Coriander & Celery leaf cooked in blend of herbs and spices comes with mouth-watering hot Schezwan flavour (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Steam Momo",
+    "price": "135",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xjdx5id1lmlzllcqb6la",
+    "category": "wow-momo",
+    "desc": "Momo stuffed with mix of Soft Juicy boneless Chicken, Onion &Coriander cooked in blend of herbs and Tinch of Spices (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Darjeeling Steam Momo",
+    "price": "105",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjvddyicewjnw9qhzuqk",
+    "category": "wow-momo",
+    "desc": "Momo stuffed with mix of Soft Juicy boneless Chicken, Onion &Coriander cooked in blend of herbs and Tinch of Spices (5 Pcs). Served with Spicy Red Authentic Darjeeling Momo Sauce."
+  },
+  {
+    "name": "Corn & Cheese Steam Momo",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pkeiu7vq7rpc8mpw9ckb",
+    "category": "wow-momo",
+    "desc": "Wow! Momo Signature Product: Momos filled with Shredded Cheese and Sweet Corn and mixed with the flavours of Indian Spices. Served with home-made Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Paneer Steam Momo",
+    "price": "135",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lxpgtvly0fmasrwawup2",
+    "category": "wow-momo",
+    "desc": "Delicious momos stuffed with freshly chopped Veggies (carrot, cabbage, beans & Coriander), Paneer, tinch of spices and mixed with Indian Masala (5 Pcs).  Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Cheese Fried Momo",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cu78g8lfpq2ri0q6wgg3",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and shredded cheese and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Schezwan Fried Momo",
+    "price": "175",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szzmmvlswvggshmjguqy",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and mixed with the flavours of Indian masala and comes with the mouth watering schezwan flavour. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Fried Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ik912f1m2hzohmcgqwfb",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Darjeeling Fried Momo",
+    "price": "125",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szzmmvlswvggshmjguqy",
+    "category": "wow-momo",
+    "desc": "Filled with softy juicy boneless chicken, onion, coriender and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red authentic darjeeling momo sauce."
+  },
+  {
+    "name": "Corn & Cheese Fried Momo",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bnzwso0cczvnthv9fpie",
+    "category": "wow-momo",
+    "desc": "Filled with shredded cheese and sweet corn and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Paneer Fried Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccxs330yzrnsldbj3xlb",
+    "category": "wow-momo",
+    "desc": "Filled with fresh chopped veggies and tender Paneer. Mixed with herbs and fried till Golden brown colour and served with Red & Green Sauce."
+  },
+  {
+    "name": "Chicken & Cheese Pan Fried Momo",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tmxcp0keg3raatuqjshu",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken cheese momo, tossed in sauce and garnished with coriander. (5 pcs)"
+  },
+  {
+    "name": "Chicken Schzwan Pan Fried Momo",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ifqm0ke64wton7mxklxk",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken schezwan (spicy) momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Pan Fried Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wwfdqbmhahwcqn5n8eh9",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Darjeeling Pan Fried Momo",
+    "price": "175",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gonswh0mpgfjswgrn6lq",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken darjeeling momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Corn & Cheese Pan Fried  Momo",
+    "price": "195",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjqpyyzral48q8att5os",
+    "category": "wow-momo",
+    "desc": "Hot & crispy corn cheese fried momo, tossed in spicy schezwan sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Paneer Pan Fried Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jsqndnspbxt9gko38qmj",
+    "category": "wow-momo",
+    "desc": "Hot & spongy paneer fried momo tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Thukpa Soup",
+    "price": "215",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xgn6fdrr21l6sal2msrl",
+    "category": "wow-momo",
+    "desc": "Tibetan Soup which consists of mixed Fresh Vegetables, Tender Chicken, Home Made Noodles, Indian Spices and Garnished with Coriander."
+  },
+  {
+    "name": "Chicken Baked Momo Augratin - Large",
+    "price": "305",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/izyosc2co3jbsh70epir",
+    "category": "wow-momo",
+    "desc": "Delicious 5 pcs Panfried Chicken Momos topped with BBQ noodles and garnished with cheese.."
+  },
+  {
+    "name": "Chicken Baked Momo Augratin -  Regular",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nbadtstnuogxufmbetbb",
+    "category": "wow-momo",
+    "desc": "Delicious 3 pcs Panfried Chicken Momos topped with BBQ noodles and garnished with cheese."
+  },
+  {
+    "name": "Chicken Double Cheesy Moburg",
+    "price": "125",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aapj9i7ltz2mj0diroik",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy fried Chicken Momos and topped with red & green sauce and mayonnaise, with 2 layers of Cheese Slice. Wow! Special"
+  },
+  {
+    "name": "Cheesy Chicken Moburg",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hud5xh5o6apw9tapmglt",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy fried Chicken Momos and topped with red & green sauce and mayonnaise, with layer of Cheese Slice."
+  },
+  {
+    "name": "Chicken Moburg",
+    "price": "89",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/npbxxhsc1mai0ecxbv5p",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy Chicken fried momos and topped with red and green sauce and mayonnaise."
+  },
+  {
+    "name": "Chocolate Momo (1 Pc)",
+    "price": "55",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tnacz6gsbknwrudrpnh7",
+    "category": "wow-momo",
+    "desc": "Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Piece)"
+  },
+  {
+    "name": "BH Organic Mojito Lime Ice Tea",
+    "price": "84.75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d9yy2uvlo7iggbapqvue",
+    "category": "wow-momo",
+    "desc": "Organic Real Brewed Black Tea with Peach Flavour. 350 ml"
+  },
+  {
+    "name": "BH Organic Peach Ice Tea",
+    "price": "84.75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q5ozeehi1l0odyen79ur",
+    "category": "wow-momo",
+    "desc": "Organic real brewed green tea with mint and lime extracts. 350 ml"
+  },
+  {
+    "name": "Chicken Darjeeling Pan Fried Momo [8 Pcs] with Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m4tvfuva014kyjulkgr1",
+    "category": "wow-momo",
+    "desc": "Celebrate Weekend Party with Pan Fried Momos!"
+  },
+  {
+    "name": "Chicken Chilli Momo [8 Pcs] with Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jnqmsmmyqgayqikonthm",
+    "category": "wow-momo",
+    "desc": "Celebrate Weekend Party with New Launch Chilli Momos!"
+  },
+  {
+    "name": "Chicken Chilli Momo 8 pc + 4 Chicken Burgers + 4 Pepsi",
+    "price": "599",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/krl5ibi0dkfbqow4pyle",
+    "category": "wow-momo",
+    "desc": "Chicken Chilli Momo 8 pc + 4 Chicken Burgers + 4 Pepsi [250ml]."
+  },
+  {
+    "name": "Chicken Cheese Steam Momo 6 pc + 3 Chicken Burger + 3 Pepsi",
+    "price": "429",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/j1yehp59rtwmwtnrejlq",
+    "category": "wow-momo",
+    "desc": "Chicken Cheese Steam Momo 6 pc + 3 Chicken Burger + 3 Pepsi [250ml]."
+  },
+  {
+    "name": "Chicken Darjeeling Steam Momo + Chicken Thukpa",
+    "price": "269",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nccdaqzhzgx7cdahnexh",
+    "category": "wow-momo",
+    "desc": "Chicken Meal for 2"
+  },
+  {
+    "name": "Chicken Cheese Chilli Momo",
+    "price": "265",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Authentic Chicken kothey version with melted Cheese and wrapped with Chilli seasoning. Served with the dash of Spring onion."
+  },
+  {
+    "name": "Chicken Chilli Momo",
+    "price": "205",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Authentic Chicken kothey blended with Chilli seasoning mix. Served with it's Rustic Magic flavors."
+  },
+  {
+    "name": "Corn & Cheese Chilli Momo",
+    "price": "255",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q4kruzcu8ng4plemgcnl",
+    "category": "wow-momo",
+    "desc": "Enfused Corn and Cheese Momo with fusion magic seasoning of chilli flavours. Served with a colorful delight."
+  },
+  {
+    "name": "Chicken Chilli Momo [10 Pieces], Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xjjrtbtlh93kyj0utdzs",
+    "category": "wow-momo",
+    "desc": "2 Plate Chicken Chilli Momo + 2  Chicken Moburg + 2 Pepsi [250ml]  [Meal for 2]"
+  },
+  {
+    "name": "Chicken Darjeeling Pan Fried Momo [10 pieces], Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "299.01",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/msqzt2eevrezksw6vlws",
+    "category": "wow-momo",
+    "desc": "2 Plate Chicken Darjeeling Pan Fried Momo + 2  Chicken Moburg + 2 Pepsi [250ml]  [Meal for 2]"
+  },
+  {
+    "name": "Chicken Darjeeling Steam Momo [10 Pieces], Chicken Moburg [2 Pcs] and 2 Pepsi [250ml]",
+    "price": "249",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bzrczwjsgijvkwmisifw",
+    "category": "wow-momo",
+    "desc": "2 Plate Chicken Darjeeling Steam Momo + 2 Chicken Moburg + 2 Pepsi [250ml]  [Meal for 2]"
+  },
+  {
+    "name": "Chicken Chilli Momo [05 Pieces] and Chicken Moburg",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u1nxnwz3c2ng2pqye1kn",
+    "category": "wow-momo",
+    "desc": "1 Plate Chicken Chilli Momo + 1  Chicken Moburg [Meal for 1]"
+  },
+  {
+    "name": "Chicken Cheese Steam Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iwky2okwnrdif0fvf9d7",
+    "category": "wow-momo",
+    "desc": "An all-time favourite, Mouth-watering Momos stuffed with mix of Juicy boneless Chicken, Cheese, Coriander, Herbs and Indian Spices (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Schezwan Steam Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/btgqfuldyaydjowg74y7",
+    "category": "wow-momo",
+    "desc": "Minced soft Juicy boneless Chicken, Coriander & Celery leaf cooked in blend of herbs and spices comes with mouth-watering hot Schezwan flavour (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Steam Momo",
+    "price": "135",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xjdx5id1lmlzllcqb6la",
+    "category": "wow-momo",
+    "desc": "Momo stuffed with mix of Soft Juicy boneless Chicken, Onion &Coriander cooked in blend of herbs and Tinch of Spices (5 Pcs). Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Darjeeling Steam Momo",
+    "price": "105",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjvddyicewjnw9qhzuqk",
+    "category": "wow-momo",
+    "desc": "Momo stuffed with mix of Soft Juicy boneless Chicken, Onion &Coriander cooked in blend of herbs and Tinch of Spices (5 Pcs). Served with Spicy Red Authentic Darjeeling Momo Sauce."
+  },
+  {
+    "name": "Corn & Cheese Steam Momo",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pkeiu7vq7rpc8mpw9ckb",
+    "category": "wow-momo",
+    "desc": "Wow! Momo Signature Product: Momos filled with Shredded Cheese and Sweet Corn and mixed with the flavours of Indian Spices. Served with home-made Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Paneer Steam Momo",
+    "price": "135",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lxpgtvly0fmasrwawup2",
+    "category": "wow-momo",
+    "desc": "Delicious momos stuffed with freshly chopped Veggies (carrot, cabbage, beans & Coriander), Paneer, tinch of spices and mixed with Indian Masala (5 Pcs).  Served with Spicy Red Sauce and Green Chutney."
+  },
+  {
+    "name": "Chicken Cheese Fried Momo",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cu78g8lfpq2ri0q6wgg3",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and shredded cheese and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Schezwan Fried Momo",
+    "price": "175",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szzmmvlswvggshmjguqy",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and mixed with the flavours of Indian masala and comes with the mouth watering schezwan flavour. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Fried Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ik912f1m2hzohmcgqwfb",
+    "category": "wow-momo",
+    "desc": "Filled with juicy chicken and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Chicken Darjeeling Fried Momo",
+    "price": "125",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szzmmvlswvggshmjguqy",
+    "category": "wow-momo",
+    "desc": "Filled with softy juicy boneless chicken, onion, coriender and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red authentic darjeeling momo sauce."
+  },
+  {
+    "name": "Corn & Cheese Fried Momo",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bnzwso0cczvnthv9fpie",
+    "category": "wow-momo",
+    "desc": "Filled with shredded cheese and sweet corn and mixed with the flavours of Indian masala. To make it crispy dipped in hot oil and served with red and green sauce."
+  },
+  {
+    "name": "Paneer Fried Momo",
+    "price": "155",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccxs330yzrnsldbj3xlb",
+    "category": "wow-momo",
+    "desc": "Filled with fresh chopped veggies and tender Paneer. Mixed with herbs and fried till Golden brown colour and served with Red & Green Sauce."
+  },
+  {
+    "name": "Chicken & Cheese Pan Fried Momo",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tmxcp0keg3raatuqjshu",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken cheese momo, tossed in sauce and garnished with coriander. (5 pcs)"
+  },
+  {
+    "name": "Chicken Schzwan Pan Fried Momo",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ifqm0ke64wton7mxklxk",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken schezwan (spicy) momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Pan Fried Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wwfdqbmhahwcqn5n8eh9",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Darjeeling Pan Fried Momo",
+    "price": "175",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gonswh0mpgfjswgrn6lq",
+    "category": "wow-momo",
+    "desc": "Hot & crispy fried chicken darjeeling momo, tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Corn & Cheese Pan Fried  Momo",
+    "price": "195",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjqpyyzral48q8att5os",
+    "category": "wow-momo",
+    "desc": "Hot & crispy corn cheese fried momo, tossed in spicy schezwan sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Paneer Pan Fried Momo",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jsqndnspbxt9gko38qmj",
+    "category": "wow-momo",
+    "desc": "Hot & spongy paneer fried momo tossed in sauce and garnished with coriander. (5 Pcs)"
+  },
+  {
+    "name": "Chicken Thukpa Soup",
+    "price": "215",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xgn6fdrr21l6sal2msrl",
+    "category": "wow-momo",
+    "desc": "Tibetan Soup which consists of mixed Fresh Vegetables, Tender Chicken, Home Made Noodles, Indian Spices and Garnished with Coriander."
+  },
+  {
+    "name": "Chicken Baked Momo Augratin - Large",
+    "price": "305",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/izyosc2co3jbsh70epir",
+    "category": "wow-momo",
+    "desc": "Delicious 5 pcs Panfried Chicken Momos topped with BBQ noodles and garnished with cheese.."
+  },
+  {
+    "name": "Chicken Baked Momo Augratin -  Regular",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nbadtstnuogxufmbetbb",
+    "category": "wow-momo",
+    "desc": "Delicious 3 pcs Panfried Chicken Momos topped with BBQ noodles and garnished with cheese."
+  },
+  {
+    "name": "Chicken Double Cheesy Moburg",
+    "price": "125",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aapj9i7ltz2mj0diroik",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy fried Chicken Momos and topped with red & green sauce and mayonnaise, with 2 layers of Cheese Slice. Wow! Special"
+  },
+  {
+    "name": "Cheesy Chicken Moburg",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hud5xh5o6apw9tapmglt",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy fried Chicken Momos and topped with red & green sauce and mayonnaise, with layer of Cheese Slice."
+  },
+  {
+    "name": "Chicken Moburg",
+    "price": "89",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/npbxxhsc1mai0ecxbv5p",
+    "category": "wow-momo",
+    "desc": "Burger filled with crispy Chicken fried momos and topped with red and green sauce and mayonnaise."
+  },
+  {
+    "name": "Chocolate Momo Platter",
+    "price": "160",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cpqlqrq2s6guhgrccpjo",
+    "category": "wow-momo",
+    "desc": "Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (04 Pieces )"
+  },
+  {
+    "name": "Chocolate Momo (1 Pc)",
+    "price": "55",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tnacz6gsbknwrudrpnh7",
+    "category": "wow-momo",
+    "desc": "Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Piece)"
+  },
+  {
+    "name": "Cheese Dip",
+    "price": "23.81",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ale838hza01zkbdvl4qp",
+    "category": "wow-momo",
+    "desc": "Cheesy sauce goes well with Momos & Burgers as an accompaniment."
+  },
+  {
+    "name": "Mayo Dip",
+    "price": "23.81",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tay5m7eetltn56xnuuez",
+    "category": "wow-momo",
+    "desc": "Delicisious mayonnaise sauce goes well with Momos and Moburg,"
+  },
+  {
+    "name": "Kings Coffee Mocha",
+    "price": "124.11",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/drdfoxfu704m642wewfz",
+    "category": "wow-momo",
+    "desc": "Refreshing Drink, Coffee Mocha flavoured. 280 ml."
+  },
+  {
+    "name": "Kings Coffee Original",
+    "price": "124.11",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/x0klws5qi0tfvrvqe6nh",
+    "category": "wow-momo",
+    "desc": "Refreshing Drink, Coffee Original flavoured. 280 ml."
+  },
+  {
+    "name": "BH Organic Mojito Lime Ice Tea",
+    "price": "84.75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d9yy2uvlo7iggbapqvue",
+    "category": "wow-momo",
+    "desc": "Organic Real Brewed Black Tea with Peach Flavour. 350 ml"
+  },
+  {
+    "name": "BH Organic Peach Ice Tea",
+    "price": "84.75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q5ozeehi1l0odyen79ur",
+    "category": "wow-momo",
+    "desc": "Organic real brewed green tea with mint and lime extracts. 350 ml"
+  },
+  {
+    "name": "Twitch Jamaican",
+    "price": "71.43",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ldcdsh1heebizlb52yym",
+    "category": "wow-momo",
+    "desc": "Energy drink. 250 ml"
+  },
+  {
+    "name": "Budweiser 0.0 Non-Alcoholic Drink",
+    "price": "84.75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uspmewexre9hy979vp32",
+    "category": "wow-momo",
+    "desc": "Energy drink. 330 ml"
+  },
+  {
+    "name": "Pepsi CAN",
+    "price": "21.42",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xfzcxyvaddk8niuzdisx",
+    "category": "wow-momo",
+    "desc": "Sparkling and Refreshing Beverage. 250 ml"
+  }
+]

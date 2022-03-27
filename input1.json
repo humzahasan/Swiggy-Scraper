@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Cheese Melt Down Burger",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccibgiyjjyodbshn94fc",
+    "category": "burger-king",
+    "desc": "Cheese oozing spicy veg patty, veggies and creamy sauce. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Fiery Chicken",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r98hgae5bphqyqceirkp",
+    "category": "burger-king",
+    "desc": "Too Hot to Handle. Our Spicy & Crunchy Chicken Patty topped with crispy lettuce, juicy tomatoes(seasonal) and creamy sauce with our unique corn dust buns. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Super Over Combo (Veg)",
+    "price": "506",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u2aglgomm0dch6noc4bt",
+    "category": "burger-king",
+    "desc": "2 Crispy Veg Double Patty+ 1 King Peri Peri Fries + 1 Veggie Strips + 2 Pepsi (M)"
+  },
+  {
+    "name": "Super Over Combo (Chicken)",
+    "price": "624",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jhah84mzfr04eb3nbjno",
+    "category": "burger-king",
+    "desc": "2 Crispy Chicken Double Patty + 1King Peri Peri Fries + 1 Chicken Fries + 2 Pepsi (M)"
+  },
+  {
+    "name": "Strategic Timeout Combo (Chicken)",
+    "price": "723",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i5nsaca5ub9ve5dzkj7e",
+    "category": "burger-king",
+    "desc": "1 Classic Chicken + 2 Crispy Chicken Double Patty + 1 King Fries + 1Chicken Fries + 2 Pepsi (M)"
+  },
+  {
+    "name": "Chicken Whopper + Chicken Whopper",
+    "price": "398",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yn8qemarnba8st8woxrx",
+    "category": "burger-king",
+    "desc": "Chicken Whopper + Chicken Whopper"
+  },
+  {
+    "name": "1 Chicken Whopper + 1 Chocolate Thick Shake",
+    "price": "348",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lpbkwf9gjxjlddamqmcw",
+    "category": "burger-king",
+    "desc": "1 Chicken Whopper + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips",
+    "price": "308",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pohyxhppuvjo5plgdvlz",
+    "category": "burger-king",
+    "desc": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips"
+  },
+  {
+    "name": "2 Lite Whopper Jr Veg + 1 King Fries + 1 Veggie strips",
+    "price": "386",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ftrpon30vmbqfaduatil",
+    "category": "burger-king",
+    "desc": "2 Lite Whopper Jr Veg + 1 King Fries + 1 Veggie strips"
+  },
+  {
+    "name": "2 Crispy Chicken Double Patty + 1King Fries + 1 Chicken Fries",
+    "price": "414",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dmdj3ezvgne5ddv63npm",
+    "category": "burger-king",
+    "desc": "2 Crispy Chicken Double Patty + 1King Fries + 1 Chicken Fries"
+  },
+  {
+    "name": "2 Lite Whopper Jr Chicken + 1 King Fries+ 1 Chicken Fries",
+    "price": "436",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iyahqu1imociols1kp2v",
+    "category": "burger-king",
+    "desc": "2 Lite Whopper Jr Chicken + 1 King Fries+ 1 Chicken Fries"
+  },
+  {
+    "name": "Chocolate Mousse Cup",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hxpyxm2e2dasvebpzkoz",
+    "category": "burger-king",
+    "desc": "Airy and creamy chocolate mousse topped with chocolate ganache and choco chips"
+  },
+  {
+    "name": "Veggie Strips - 5 Pcs",
+    "price": "49",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aodzevst0hqvlrgqumif",
+    "category": "burger-king",
+    "desc": "Vegetarian's favourite finger food."
+  },
+  {
+    "name": "Chicken Fries (5 Pcs)",
+    "price": "79",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tqhq4zd5sxa6qdc8yhwj",
+    "category": "burger-king",
+    "desc": "Chicken in a spicy new avatar."
+  },
+  {
+    "name": "Hashbrown",
+    "price": "39",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/acabmj60n7dctjg9un5q",
+    "category": "burger-king",
+    "desc": "What every potato wants to be."
+  },
+  {
+    "name": "Cheesy Fries",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/owfixesuqjm7uzxhzhrv",
+    "category": "burger-king",
+    "desc": "Crispy french fries, loads of cheese, yum!"
+  },
+  {
+    "name": "King Fries",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cvd8m9tfxadrmhd54w52",
+    "category": "burger-king",
+    "desc": "The perfect crispy partner."
+  },
+  {
+    "name": "Chocolate Thick Shake",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kj9hypk5lgl15fawayiy",
+    "category": "burger-king",
+    "desc": "Our signature chocolate thick shake."
+  },
+  {
+    "name": "Boneless Wings Large",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qefyb4gxjhh0i9iz6ozu",
+    "category": "burger-king",
+    "desc": "7pcs Boneless Chicken Bites"
+  },
+  {
+    "name": "Crispy Veg Burger+ Med Fries + Med Pepsi + Chocolava cup",
+    "price": "274",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ugxxibr21feibw6weu1i",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Crispy Veg Burger+ Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Crispy Chicken Burger + Med Fries + Med Pepsi + Chocolava cup",
+    "price": "299",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fyscfxwpdnzvepdgrjsq",
+    "category": "burger-king",
+    "desc": "Save Rs.74 | Crispy Chicken Burger + Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Classic Veg Burger + Med Fries + Med Pepsi + Chocolava cup",
+    "price": "318",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hnqdtvnjlejxfhtp1mxh",
+    "category": "burger-king",
+    "desc": "Save Rs.74 | Classic Veg Burger + Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Classic Chicken Burger + Med Fries + Med Pepsi + Chocolava cup",
+    "price": "338",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ewjsas8h5yrukxslwqvw",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Classic Chicken Burger + Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Veg Whopper+ Med Fries + Med Pepsi + Chocolava cup",
+    "price": "388",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wyxqmhqwx9kzqbxvfpxj",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Veg Whopper+ Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Chicken Whopper+ Med Fries + Med Pepsi + Chocolava cup",
+    "price": "418",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jr5my7vfumapottilfuy",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Chicken Whopper+ Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Cheese Meltdown Burger+ Med Fries + Med Pepsi + Chocolava cup",
+    "price": "388",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/k0ttvz0nyuzzgqcixqyz",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Cheese Meltdown Burger+ Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Fiery Chicken+ Med Fries + Med Pepsi + Chocolava cup",
+    "price": "398",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kkve0btmod8ssvxtodvi",
+    "category": "burger-king",
+    "desc": "Save Rs. 74 | Fiery Chicken+ Med Fries + Med Pepsi + Chocolava cup"
+  },
+  {
+    "name": "Chicken Tandoor Grill Burger",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cbz0hfuec586u0itk4ay",
+    "category": "burger-king",
+    "desc": "Desiness Alert! Flame grilled Tandoori Chicken, mint sauce with fresh onion  with our unique corn dust buns. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Cheese Melt Down Burger",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ccibgiyjjyodbshn94fc",
+    "category": "burger-king",
+    "desc": "Cheese oozing spicy veg patty, veggies and creamy sauce. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Paneer Overload Burger",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vhdpx6ohlagdm6utmtss",
+    "category": "burger-king",
+    "desc": "A patty with paneer sandiwched with masala, veggies and creamy sauce. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Fiery Chicken",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r98hgae5bphqyqceirkp",
+    "category": "burger-king",
+    "desc": "Too Hot to Handle. Our Spicy & Crunchy Chicken Patty topped with crispy lettuce, juicy tomatoes(seasonal) and creamy sauce with our unique corn dust buns. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Super Over Combo (Veg)",
+    "price": "506",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u2aglgomm0dch6noc4bt",
+    "category": "burger-king",
+    "desc": "2 Crispy Veg Double Patty+ 1 King Peri Peri Fries + 1 Veggie Strips + 2 Pepsi (M)"
+  },
+  {
+    "name": "Super Over Combo (Chicken)",
+    "price": "624",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jhah84mzfr04eb3nbjno",
+    "category": "burger-king",
+    "desc": "2 Crispy Chicken Double Patty + 1King Peri Peri Fries + 1 Chicken Fries + 2 Pepsi (M)"
+  },
+  {
+    "name": "Whopper Partnership Combo (Veg)",
+    "price": "754",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qde4ityeetsmuj4zwmp1",
+    "category": "burger-king",
+    "desc": "2Veg Whopper + 1King Peri Peri Fries + 1 Veggie Strips +1 Chocolate Shake +1 Pepsi (M)"
+  },
+  {
+    "name": "2 Fiery Chicken + 1King Fries + 2 Med Pepsi",
+    "price": "645",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xmn0gxjmikauadvwez9o",
+    "category": "burger-king",
+    "desc": "2 Fiery Chicken + 1King Fries + 2 Med Pepsi"
+  },
+  {
+    "name": "2 Cheese Meltdown + 1King Fries + 2 Med Pepsi",
+    "price": "625",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ntxwyyu5hvofp3ao8a0w",
+    "category": "burger-king",
+    "desc": "2 Cheese Meltdown + 1King Fries + 2 Med Pepsi"
+  },
+  {
+    "name": "Strategic Timeout Combo (Veg)",
+    "price": "666",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gjvqsrxzufemipwrhfhe",
+    "category": "burger-king",
+    "desc": "1 Classic Veg + 2 Crispy Veg Double + 2 Medium Fries + 1 Veggie Strips + 2 Pepsi (M)"
+  },
+  {
+    "name": "The Hat-trick combo ( Veg)",
+    "price": "736",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lextolmevxvqujrbb2rw",
+    "category": "burger-king",
+    "desc": "1 Veg Whopper + 2Crispy Veg Double+ 2 medium Fries + 1 Veggie Strips + 2 Pepsi (M)"
+  },
+  {
+    "name": "Strategic Timeout Combo (Chicken)",
+    "price": "723",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i5nsaca5ub9ve5dzkj7e",
+    "category": "burger-king",
+    "desc": "1 Classic Chicken + 2 Crispy Chicken Double Patty + 1 King Fries + 1Chicken Fries + 2 Pepsi (M)"
+  },
+  {
+    "name": "The Hat-trick combo - Chicken",
+    "price": "795",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/erfzcnbcwmcbvsynmfsn",
+    "category": "burger-king",
+    "desc": "1 Chicken Whopper + 2 Crispy Chicken + 1 King Fries + Regular Boneless + 2 Pepsi (M)"
+  },
+  {
+    "name": "Chillax Combo (Veg)",
+    "price": "863",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gjclomjfp08q0vttoh5e",
+    "category": "burger-king",
+    "desc": "2 Classic Veg + 2 Crispy Veg + 2 Medium Fries + 2 Veggie Strips + 3 Pepsi (M)"
+  },
+  {
+    "name": "2 Veg Whopper + 1Cheese Meltdown",
+    "price": "507",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vwbgyugowraj5fdo8fkk",
+    "category": "burger-king",
+    "desc": "2 Veg Whopper + 1Cheese Meltdown"
+  },
+  {
+    "name": "2 Cheese Meltdown + 1Classic Veg",
+    "price": "437",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wwibxloojhzo0fds6b0r",
+    "category": "burger-king",
+    "desc": "2 Cheese Meltdown + 1Classic Veg"
+  },
+  {
+    "name": "2 Chicken Whopper +1Fiery Chicken",
+    "price": "577",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uyqwsajorvhq8w6jcglw",
+    "category": "burger-king",
+    "desc": "2 Chicken Whopper +1Fiery Chicken"
+  },
+  {
+    "name": "2 Fiery Chicken +1Classic Chicken",
+    "price": "487",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hknlbsog3qrknvlqf6eb",
+    "category": "burger-king",
+    "desc": "2 Fiery Chicken +1Classic Chicken"
+  },
+  {
+    "name": "Chicken Whopper + Chicken Whopper",
+    "price": "398",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yn8qemarnba8st8woxrx",
+    "category": "burger-king",
+    "desc": "Chicken Whopper + Chicken Whopper"
+  },
+  {
+    "name": "Chicken Makhani Burst + Lite Whopper Jr Chicken",
+    "price": "219",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gavlmj9y7wo9fubryx19",
+    "category": "burger-king",
+    "desc": "Chicken Makhani Burst + Lite Whopper Jr Chicken"
+  },
+  {
+    "name": "Twisted Whopper Veg + Twisted Whopper Veg",
+    "price": "418",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dsqaqhi945xd1aqzr8qo",
+    "category": "burger-king",
+    "desc": "Twisted Whopper Veg + Twisted Whopper Veg"
+  },
+  {
+    "name": "Twisted Whopper Chicken + Twisted Whopper Chicken",
+    "price": "458",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wk6eggqmese6iwxpnsfy",
+    "category": "burger-king",
+    "desc": "Twisted Whopper Chicken + Twisted Whopper Chicken"
+  },
+  {
+    "name": "2 Veg Whopper + 2Crispy Veg + 5pc Veggie Strips + 1 King Fries + 4 Medium Pepsi",
+    "price": "1102",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y4bkedujoev0fxapetnd",
+    "category": "burger-king",
+    "desc": "2 Veg Whopper + 2 Crispy Veg + 5pc Veggie Strips + 1 King Fries + 4 Pepsi (M)"
+  },
+  {
+    "name": "2 Chicken Whopper + 2 Crispy Chicken + 5pc- Chicken Sticks + 1 King Fries + 4 Pepsi",
+    "price": "962",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uowbv1f1hr9s19xmt8ru",
+    "category": "burger-king",
+    "desc": "2 Chicken Whopper + 2 Crispy Chicken + 1 Chicken Fries + 1 King Fries + 4 Pepsi (M)"
+  },
+  {
+    "name": "1 Crispy Veg + 1 Chocolate Thick Shake",
+    "price": "204",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vxxsejmswaok1m17t7mx",
+    "category": "burger-king",
+    "desc": "1 Crispy Veg + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "1 Crispy Chicken + 1 Chocolate Thick Shake",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rd0tlq49wwoqglqq1g4j",
+    "category": "burger-king",
+    "desc": "1 Crispy Chicken + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "1 Veg Whopper + 1 Chocolate Thick Shake",
+    "price": "318",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ddtsthzckasbpadrpzxo",
+    "category": "burger-king",
+    "desc": "1 Veg Whopper + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "1 Paneer Overload Burger + 1 Chocolate Thick Shake",
+    "price": "328",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jadqnn0hygog7597xk63",
+    "category": "burger-king",
+    "desc": "1 Paneer Overload Burger + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "1 Chicken Whopper + 1 Chocolate Thick Shake",
+    "price": "348",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lpbkwf9gjxjlddamqmcw",
+    "category": "burger-king",
+    "desc": "1 Chicken Whopper + 1 Chocolate Thick Shake"
+  },
+  {
+    "name": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips",
+    "price": "308",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pohyxhppuvjo5plgdvlz",
+    "category": "burger-king",
+    "desc": "2 Crispy Veg Double Patty + 1King Fries + 1Veggie strips"
+  },
+  {
+    "name": "2 Lite Whopper Jr Veg + 1 King Fries + 1 Veggie strips",
+    "price": "386",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ftrpon30vmbqfaduatil",
+    "category": "burger-king",
+    "desc": "2 Lite Whopper Jr Veg + 1 King Fries + 1 Veggie strips"
+  },
+  {
+    "name": "2 Crispy Chicken Double Patty + 1King Fries + 1 Chicken Fries",
+    "price": "414",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dmdj3ezvgne5ddv63npm",
+    "category": "burger-king",
+    "desc": "2 Crispy Chicken Double Patty + 1King Fries + 1 Chicken Fries"
+  },
+  {
+    "name": "2 Lite Whopper Jr Chicken + 1 King Fries+ 1 Chicken Fries",
+    "price": "436",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iyahqu1imociols1kp2v",
+    "category": "burger-king",
+    "desc": "2 Lite Whopper Jr Chicken + 1 King Fries+ 1 Chicken Fries"
+  },
+  {
+    "name": "2 Crispy Veg Double Patty + 1 King Fries +1Chocolate mousse cup",
+    "price": "358",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v7eokx69s2sg0bnp0otx",
+    "category": "burger-king",
+    "desc": "2 Crispy Veg Double Patty + 1 King Fries +1Chocolate mousse cup"
+  },
+  {
+    "name": "2 Crispy Chicken + 1 King Fries +1Chocolate mousse cup",
+    "price": "368",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v0vuxtjnpkhp4kb4uf1u",
+    "category": "burger-king",
+    "desc": "2 Crispy Chicken + 1 King Fries +1Chocolate mousse cup"
+  },
+  {
+    "name": "1 Cheese Meltdown + 1 Veggie Strips + 1  Chocolate Mousse cup",
+    "price": "327",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yiftfd3kgorq3pftd233",
+    "category": "burger-king",
+    "desc": "1 Cheese Meltdown +1 Veggie Strips + 1  Chocolate Mousse cup"
+  },
+  {
+    "name": "1 Fiery Chicken +1  Chicken Fries + 1 Chocolate Mousse cup",
+    "price": "367",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nqo4zo4up6yjuqttcwfa",
+    "category": "burger-king",
+    "desc": "1 Fiery Chicken + 1 Chicken Fries + 1 Chocolate Mousse cup"
+  },
+  {
+    "name": "Veg Whopper",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/klmmcn3anqx2iijzdn2p",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Extra crunchy veg Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Veg Whopper with Cheese",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vriqohxtrafiqxmx6k2p",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Extra crunchy veg Patty with Cheese slice, fresh onion, crispy lettuce, juicy tomatoes, tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Chicken Whopper",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/izusxz1aiilxat7cstwv",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Flame Grilled chicken Patty, fresh onion, crispy lettuce, juicy tomatoes, tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Veg Whopper Double Patty",
+    "price": "219",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fldievsdtqrjpirqopsr",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Extra crunchy veg Double Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Chicken Whopper with Cheese",
+    "price": "219",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nueqj3ssms88hue3eofs",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Flame Grilled chicken Patty with Cheese slice, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Twisted Whopper - Veg",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pltx770rrkcghlzx4zwb",
+    "category": "burger-king",
+    "desc": "The biggest Whopper ever, Twisted Whopper, with xxl buns, crunchy chips, extra crunchy veg patty, cheese, loads of veggies & sauces. Big on flavours, big on bite."
+  },
+  {
+    "name": "Chicken Whopper Double Patty",
+    "price": "249",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yunqfmtdzalinraramvn",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns. Flame Grilled chicken Double Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper."
+  },
+  {
+    "name": "Mutton Whopper",
+    "price": "299",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/md9oorm6eku5e4nktmuy",
+    "category": "burger-king",
+    "desc": "Flame grilled signature Mutton patty Whopper"
+  },
+  {
+    "name": "Twisted Whopper - Chicken",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bl60ukyawjl0cvqr9yna",
+    "category": "burger-king",
+    "desc": "The biggest Whopper ever, Twisted Whopper, with xxl buns, crunchy chips, flame grilled chicken patty, cheese, loads of veggies & sauces. Big on flavours, big on bite."
+  },
+  {
+    "name": "Mutton Whopper Double Patty",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vpagxvdbrm0j4hkpgyuu",
+    "category": "burger-king",
+    "desc": "Two much mutton as delicious flame-grilled patties, farm-fresh veggies and mayo is what makes this Mutton Double Whopper a feast for the beast."
+  },
+  {
+    "name": "Twisted Whopper - Mutton",
+    "price": "339",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yjhwdffmjpgcbganjk0c",
+    "category": "burger-king",
+    "desc": "The biggest Whopper ever, Twisted Whopper, with xxl buns, crunchy chips, flame grilled mutton patty, cheese, loads of veggies & sauces. Big on flavours, big on bite"
+  },
+  {
+    "name": "Crispy Veg Combo",
+    "price": "193",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/deyyaxafzufypp1xtpij",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our best-selling burger with crispy veg patty, fresh onion and our signature sauce. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "King Egg Combo",
+    "price": "198",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/blnwk49uenvm2aozpnzh",
+    "category": "burger-king",
+    "desc": "Save Rs 45 | Freshly made egg patty burger. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "BK Classic Veg Combo",
+    "price": "237",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/z2atg0irfvvdxvptrax2",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our tribute to classic american taste. BK veg patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Crispy Chicken Combo",
+    "price": "218",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/egrzjgv6goe4ug6d1vfa",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our best-selling burger with crispy chicken patty, fresh onion and our signature sauce. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Spicy Grill Chicken Burger Meal Combo",
+    "price": "257",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ifdt319ulbfugwrkgv05",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Flame Grilled chicken patty with BK spicy sauce makes this a grill classic.Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "BK Classic Chicken Combo",
+    "price": "257",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/l9naal41p7ibsxlipfwk",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our tribute to classic american taste. BK chicken patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Lite Whopper Jr Veg Combo",
+    "price": "257",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ctrtjnt4kbua0aptyelj",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Lite Whopper Jr Chicken Combo",
+    "price": "267",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lagxcnkkbyl9wh4owhyq",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our signature Whopper with 7 layers between the buns in a convenient size. Flame Grilled chicken Patty, fresh onion, crispy lettuce, juicy tomatoes, tangy gherkins, creamy and smoky sauces. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Veg Whopper  Combo",
+    "price": "307",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/msp9yzcm0mo0hgc7nltp",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our signature Whopper with 7 layers between the buns. Extra crunchy veg Patty, fresh onion, crispy lettuce, juicy tomatoes, tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Chicken Tandoor Grill - Combo",
+    "price": "287",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mbvxr2nrwsdgrtsyicym",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Desiness Alert! Flame grilled Tandoori Chicken, mint sauce with fresh onion  with our unique corn dust buns. An indulgent treat from our King's Collection! Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Big Smoky Grill Chicken Burger Combo",
+    "price": "297",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ngxoifmg4rrcfgu597d7",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our Big Burger with Flame Grilled smoky chicken patty & loads of sauces makes it a grill treat. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Cheese Melt down combo",
+    "price": "307",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jolwyvact5tbeet4pfxj",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Cheese oozing spicy veg patty, veggies and creamy sauce. An indulgent treat from our King's Collection! Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Chicken Whopper Combo",
+    "price": "337",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lrthnkvmbbgftttfe8hm",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Our signature Whopper with 7 layers between the buns. Flame Grilled chicken Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces with xxl buns. It’s Not A Burger, it’s a Whopper. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Paneer Overload Combo",
+    "price": "317",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rpdocwd3y7acnoelvwtc",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |A patty with paneer sandiwched with masala, veggies and creamy sauce. An indulgent treat from our King's Collection!Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Fiery Chicken - Combo",
+    "price": "317",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iacrlvuvrubftsjrzrog",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Too Hot to Handle. Our Spicy & Crunchy Chicken Patty topped with crispy lettuce, juicy tomatoes(seasonal) and creamy sauce with our unique corn dust buns. An indulgent treat from our King's Collection!Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Veg Twisted Whopper Combo",
+    "price": "337",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xhusidkld5gyne5per1v",
+    "category": "burger-king",
+    "desc": "Save Rs 35 |The biggest Whopper ever, Boss Whopper, with xxl buns, crunchy chips, extra crunchy veg patty, cheese, loads of veggies & sauces. Big on flavours, big on bite. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Chicken Twisted Whopper Combo",
+    "price": "357",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/akk0udelgnhe7ssedqe5",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Mutton Whopper - Combo",
+    "price": "437",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hqmgyqhdglqeeokunste",
+    "category": "burger-king",
+    "desc": "Save Rs 45 |Make room for our fully loaded Whopper with a juicy, flame-grilled Mutton Patty, tangy pickles, fresh veggies, mayo and ketchup served in fresh 5\" buns. Comes with Fries (M) + Pepsi (M)"
+  },
+  {
+    "name": "Mutton Twisted Whopper Combo",
+    "price": "477",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zzhwsbk9prlm99w3js5c",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Crispy Veg Burger",
+    "price": "55",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hghmixgqwyacf1zlyvo0",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy veg patty, fresh onion and our signature sauce."
+  },
+  {
+    "name": "Classic Veg Double Patty Burger",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lmxoqctz1x0irvt5cjy2",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK veg Double patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce."
+  },
+  {
+    "name": "BK Classic Veg Burger",
+    "price": "99",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uvfehwtz2fceyrtfjsoc",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK veg patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce."
+  },
+  {
+    "name": "King Egg Burger",
+    "price": "60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i75yb4iabyqdzaidmdec",
+    "category": "burger-king",
+    "desc": "Freshly made egg patty burger"
+  },
+  {
+    "name": "Crispy Veg with Cheese Burger",
+    "price": "75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wr3o7gmsgcuf1x4zwcax",
+    "category": "burger-king",
+    "desc": "Our best-selling burger withcrispy veg patty, Cheese slice, fresh onion and our signature sauce."
+  },
+  {
+    "name": "King Egg Double Patty Burger",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r2dglakjqmbiyumugqb0",
+    "category": "burger-king",
+    "desc": "Freshly made egg double patty burger"
+  },
+  {
+    "name": "Crispy Veg Double Patty Burger",
+    "price": "75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/phm3t2g7v0lpczvtu6g7",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy veg Double patty, fresh onion and our signature sauce."
+  },
+  {
+    "name": "Crispy Veg Double Patty with Cheese",
+    "price": "95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ndp3akjkdainthdpugjp",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy veg Double patty, Cheese slice, fresh onion and our signature sauce."
+  },
+  {
+    "name": "Spicy Grill Chicken Burger",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uoljw7xokvlesetbjhcg",
+    "category": "burger-king",
+    "desc": "Flame Grilled chicken patty with BK spicy sauce makes this a grill classic."
+  },
+  {
+    "name": "Crispy Chicken Burger",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fv5xqycwjt1vtlzasweu",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy chicken patty, fresh onion and our signature sauce."
+  },
+  {
+    "name": "BK Classic Chicken Burger",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zo2ukigdl7xu15zkf4ml",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK chicken patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce."
+  },
+  {
+    "name": "Bk Classic Veg with cheese",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xsgzpkvpetml8makm2xm",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK veg patty, garden fresh crispy lettuce, juicy tomato(seasonal), Cheese slice & our signature sauce."
+  },
+  {
+    "name": "Lite Whopper Jr Veg",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y9paueit9iwqcdwv62kf",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "Crispy Chicken with Cheese Burger",
+    "price": "100",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pyappgbsrv8yy6u7a6b3",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with cheese slice, crispy chicken patty, onion and our signature sauce."
+  },
+  {
+    "name": "Lite Whopper Jr Chicken",
+    "price": "129",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/imehwx5nybd2mvbdspag",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Flame Grilled chicken Patty, fresh onion, crispy lettuce, juicy tomatoes, tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "BK Classic Chicken with Cheese Burger",
+    "price": "139",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fw2lf3gdm3vnqeqxysy0",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK chicken patty, garden fresh crispy lettuce, juicy tomato(seasonal), Cheese slice & our signature sauce."
+  },
+  {
+    "name": "Crispy Chicken Double Patty Burger",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kzqwwiqxj6axbrqlmqln",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy chicken Double Patty, fresh onion and our signature sauce."
+  },
+  {
+    "name": "Lite Whopper Jr Veg with Cheese",
+    "price": "139",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pr4xqyerpowo0eyepgxj",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg Patty, Cheese slice, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "Crispy Chicken Double Patty with Cheese",
+    "price": "139",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hvwp4rnzvonendyonlju",
+    "category": "burger-king",
+    "desc": "Our best-selling burger with crispy chicken Double Patty, Cheese slice, fresh onion and our signature sauce."
+  },
+  {
+    "name": "Lite Whopper Jr Chicken with Cheese",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/t0la38cvutr8e2cehrs0",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Flame Grilled chicken Patty, Cheese slice, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "Lite Whopper Jr Veg Double Patty",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jl47bpwqrvv4kryuwrlk",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg Double Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "Classic Chicken Double Patty Burger",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/j9pdrj7pgulhetj4qx2s",
+    "category": "burger-king",
+    "desc": "Our tribute to classic american taste. BK chicken Double patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce."
+  },
+  {
+    "name": "Lite Whopper Jr Chicken Double Patty",
+    "price": "179",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rweopc91hx9mloyjgz73",
+    "category": "burger-king",
+    "desc": "Our signature Whopper with 7 layers between the buns in a convenient size. Flame Grilled chicken Double Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces."
+  },
+  {
+    "name": "Big Smoky Grill Chicken Burger",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h2d4iojdalmyfznvf9nt",
+    "category": "burger-king",
+    "desc": "Our Big Burger with Flame Grilled smoky chicken patty & loads of sauces makes it a grill treat."
+  },
+  {
+    "name": "Cheese Meltdown with Cheese Burger",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fq2cl1baovc3mxyjbgxf",
+    "category": "burger-king",
+    "desc": "Cheese oozing spicy veg patty, veggies, Cheese slice and creamy sauce. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "King Egg with Cheese",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kxpi1zf8ikgob6p1z2vz",
+    "category": "burger-king",
+    "desc": "Freshly made egg patty burger with a slice of cheese"
+  },
+  {
+    "name": "Paneer Overload with Cheese Burger",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i3imbssjw2lqtmqldfoj",
+    "category": "burger-king",
+    "desc": "A patty with paneer sandiwched with masala, veggies, Cheese slice and creamy sauce. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Fiery Chicken with Cheese Burger",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ogok33uqujgmg1mgais6",
+    "category": "burger-king",
+    "desc": "Too Hot to Handle. Our Spicy & Crunchy Chicken Patty topped with crispy lettuce, juicy tomatoes(seasonal), Cheese Slice and creamy sauce with our unique corn dust buns. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Chicken Tandoor grill Double Patty",
+    "price": "249",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/j4cmlcqrvslpquwphwjn",
+    "category": "burger-king",
+    "desc": "Desiness Alert! Flame grilled Tandoori Double Chicken, mint sauce with fresh onion  with our unique corn dust buns. An indulgent treat from our King's Collection!"
+  },
+  {
+    "name": "Veg Crunchy Volcano",
+    "price": "60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ljhtdtkkjocyjmczu994",
+    "category": "burger-king",
+    "desc": "Be ready for a crunchy, saucy, explosion. A crunchy volcano shell filled with beans & veg mix, chef's secret sauce, fresh onion & crisp lettuce."
+  },
+  {
+    "name": "Tikki Twist Burger",
+    "price": "60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vzwe9cstxupzkww4uyg0",
+    "category": "burger-king",
+    "desc": "Tikki bhi, Twist bhi! Our new signature burger with spicy sauce, onion, mix veg patty & a crunchy twist!"
+  },
+  {
+    "name": "Veg Makhani Burst Burger",
+    "price": "60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rnljd0ea2zwgfbhkzwwh",
+    "category": "burger-king",
+    "desc": "Enjoy rich makhani flavour with mix veg patty topped up with fresh onion"
+  },
+  {
+    "name": "Chicken Makhani Burst Burger",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ajxjn6rht9vc8aplkvbw",
+    "category": "burger-king",
+    "desc": "Enjoy rich makhani flavour with crispy chicken patty topped with fresh onion"
+  },
+  {
+    "name": "Crunchy Chicken Volcano",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kzekifdu0vakjkebcxml",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Tikki Twist Double Patty Burger",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bdzss71u5w4kg6mayg60",
+    "category": "burger-king",
+    "desc": "Tikki bhi, Twist bhi! Our new signature burger with spicy sauce, onion, mix veg double patty & a crunchy twist!"
+  },
+  {
+    "name": "Veg Makhani Burst Double Patty Burger",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/izbi1dlua0sc3xmnpc3z",
+    "category": "burger-king",
+    "desc": "Enjoy rich makhani flavour with mix veg double patty topped up with fresh onion"
+  },
+  {
+    "name": "Chocolate Mousse Cup",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hxpyxm2e2dasvebpzkoz",
+    "category": "burger-king",
+    "desc": "Airy and creamy chocolate mousse topped with chocolate ganache and choco chips"
+  },
+  {
+    "name": "My Fries & Dips Pack",
+    "price": "200",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xxskjmzzdjfsrg7hdhg4",
+    "category": "burger-king",
+    "desc": "1 Fries + 2 Boneless Wings + 1 Fiery Hell Dip  +1  Easy cheesy Dip"
+  },
+  {
+    "name": "Choco Lava Cup",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nsm44tzuxpceproaymyr",
+    "category": "burger-king",
+    "desc": "Melty Chocolate filled in cupcake"
+  },
+  {
+    "name": "Fiery Hell Dip",
+    "price": "25",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nsqnarjlxmzioj5zotty",
+    "category": "burger-king",
+    "desc": "Chefs Special Spicy Sauce"
+  },
+  {
+    "name": "Veggie Strips - 5 Pcs",
+    "price": "49",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aodzevst0hqvlrgqumif",
+    "category": "burger-king",
+    "desc": "Vegetarian's favourite finger food."
+  },
+  {
+    "name": "Sweet N Spice Dip",
+    "price": "25",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kyyqdke81u4byyg6k52w",
+    "category": "burger-king",
+    "desc": "Honey Mustard Sauce"
+  },
+  {
+    "name": "Easy Cheesy Dip",
+    "price": "25",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cfxufomgselawz85bhbo",
+    "category": "burger-king",
+    "desc": "Cheese & Jalapeno Sauce"
+  },
+  {
+    "name": "Chicken Fries (5 Pcs)",
+    "price": "79",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tqhq4zd5sxa6qdc8yhwj",
+    "category": "burger-king",
+    "desc": "Chicken in a spicy new avatar."
+  },
+  {
+    "name": "Hashbrown",
+    "price": "39",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/acabmj60n7dctjg9un5q",
+    "category": "burger-king",
+    "desc": "What every potato wants to be."
+  },
+  {
+    "name": "Medium Fries",
+    "price": "95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cvd8m9tfxadrmhd54w52",
+    "category": "burger-king",
+    "desc": "The perfect crispy partner."
+  },
+  {
+    "name": "Cheesy Fries",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/owfixesuqjm7uzxhzhrv",
+    "category": "burger-king",
+    "desc": "Crispy french fries, loads of cheese, yum!"
+  },
+  {
+    "name": "King Fries",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cvd8m9tfxadrmhd54w52",
+    "category": "burger-king",
+    "desc": "The perfect crispy partner."
+  },
+  {
+    "name": "Creamy Italian  Fries",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b3hgwlbtnnuovkb4rvcv",
+    "category": "burger-king",
+    "desc": "The lip-smacking duo of creamy classic mayo and tangy tomato herb mayo make these fries very hard to resist!"
+  },
+  {
+    "name": "Medium Peri Peri Fries",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mgipyyoulmma7rjwofoj",
+    "category": "burger-king",
+    "desc": "Crispy fries with peri peri spice. Hot indeed"
+  },
+  {
+    "name": "King Peri Peri Fries",
+    "price": "129",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mgipyyoulmma7rjwofoj",
+    "category": "burger-king",
+    "desc": "Crispy fries with peri peri spice. Hot indeed"
+  },
+  {
+    "name": "Med Pepsi",
+    "price": "89",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjsk5itomwsjmfz3sd3b",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "King Pepsi 550 ml",
+    "price": "99",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jjsk5itomwsjmfz3sd3b",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chocolate Thick Shake",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kj9hypk5lgl15fawayiy",
+    "category": "burger-king",
+    "desc": "Our signature chocolate thick shake."
+  },
+  {
+    "name": "Mango Thick Shake",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mriuw4pwcb9rnqdj5dc3",
+    "category": "burger-king",
+    "desc": "Our signature mango thick shake."
+  },
+  {
+    "name": "Berry Blast Thick Shake",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yzkpob5ifvenc79yqjvs",
+    "category": "burger-king",
+    "desc": "Rich Creamy Black Currant Thick shake"
+  },
+  {
+    "name": "Choco Lava Cup",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nsm44tzuxpceproaymyr",
+    "category": "burger-king",
+    "desc": "Melty Chocolate filled in cupcake"
+  },
+  {
+    "name": "Chocolate Mousse Cup",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hxpyxm2e2dasvebpzkoz",
+    "category": "burger-king",
+    "desc": "Airy and creamy chocolate mousse topped with chocolate ganache and choco chips"
+  },
+  {
+    "name": "Chicken Wings Fried Two Pieces",
+    "price": "79",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avt5jfgq720ubqqb3zzo",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Grilled - Two Pieces",
+    "price": "79",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Grilled Four Pieces",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Boneless Wings Regular",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qefyb4gxjhh0i9iz6ozu",
+    "category": "burger-king",
+    "desc": "4pcs Boneless Chicken Bites"
+  },
+  {
+    "name": "Chicken Wings Fried - Four pieces",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avt5jfgq720ubqqb3zzo",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Fried - Four Pcs",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avt5jfgq720ubqqb3zzo",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Boneless Wings Large",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qefyb4gxjhh0i9iz6ozu",
+    "category": "burger-king",
+    "desc": "7pcs Boneless Chicken Bites"
+  },
+  {
+    "name": "Chicken Wings Grilled - Ten Pcs",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings - five Pcs Fried + Five Pcs Grilled",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Fried - Ten Pieces",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avt5jfgq720ubqqb3zzo",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Fried - Fifteen Pieces",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avt5jfgq720ubqqb3zzo",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings Grilled - Fifteen Pcs",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken Wings - Five Pcs Fried + Ten Pcs Grilled",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Chicken WIngs - 5 Pcs Grilled + 10 Pcs Fries",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xkl6yq42u3xabampktne",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "Hashbrown",
+    "price": "39",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/acabmj60n7dctjg9un5q",
+    "category": "burger-king",
+    "desc": "What every potato wants to be."
+  },
+  {
+    "name": "King Egg Burger",
+    "price": "60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/i75yb4iabyqdzaidmdec",
+    "category": "burger-king",
+    "desc": ""
+  },
+  {
+    "name": "King Egg with Cheese",
+    "price": "80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,e_grayscale,c_fit/kxpi1zf8ikgob6p1z2vz",
+    "category": "burger-king",
+    "desc": ""
+  }
+]

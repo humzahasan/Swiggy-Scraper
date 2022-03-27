@@ -1,0 +1,933 @@
+[
+  {
+    "name": "Happyness Pack",
+    "price": "999",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lwyet6x3trffhxeegzx6",
+    "category": "baskin-robins",
+    "desc": "Two tubs of your favourite ice cream flavours, six golden waffle cones, two types of fun toppings, and two sachets of delectable Hershey's chocolate sauce packed together in a fun hamper that brings the parlour to you. A handy scooper with the treats just seals this deal – Perfect for a party at home or as a gift to your loved one."
+  },
+  {
+    "name": "Hershey's Kisses Caramel Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b5ophiuffdag9cftzndc",
+    "category": "baskin-robins",
+    "desc": "A heavenly mélange of Hershey’s cocoa with classic vanilla ice cream intertwined with our signature caramel ribbon. Get surprised with Hershey’s milk chocolate kisses bits in each bite. Mesmerizing!"
+  },
+  {
+    "name": "Morning Mystery",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jgqw7m2cz9bcza2oty6q",
+    "category": "baskin-robins",
+    "desc": "A fusion of creamy caramalised milk and crunchy cashews, raisins, black currant and tutti fruitti. Truly a flavour mystery worth exploring any time of the day!"
+  },
+  {
+    "name": "Raspberry Sorbet",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zrae2uos1xml7ywoyfdq",
+    "category": "baskin-robins",
+    "desc": "Sweet and juicy raspberries swirled into a summer fresh sorbet. A refreshing treat to welcome this summer!"
+  },
+  {
+    "name": "Mississippi Mud Ice cream",
+    "price": "317.80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i2nnejks3mszudmmrqas",
+    "category": "baskin-robins",
+    "desc": "Delectable chocolate fudge and ice cream, married by a fudge ribbon and sprinkled with brownie pieces. We?ve tripled up on chocolate with this Mississippi Mud flavour! Chocolate overload anyone?"
+  },
+  {
+    "name": "Gold Medal Ribbon Ice cream",
+    "price": "317.80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ledumhbaodrkpnpmeiin",
+    "category": "baskin-robins",
+    "desc": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection."
+  },
+  {
+    "name": "Hop Scotch Butterscotch Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aahjpm8ivqvxq8y9ctam",
+    "category": "baskin-robins",
+    "desc": "With a butterscotch base, this ice cream has cashew crunch along with an enticing butterscotch ribbon. Stop drooling, start clicking! Our Butterscotch ice cream is calling out to you! (Contains milk & tree nuts)"
+  },
+  {
+    "name": "Fresh Very Berry Strawberry Ice cream",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ybgg7x946wgccj182y5l",
+    "category": "baskin-robins",
+    "desc": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, it?s an all time favourite! (Contains Milk)"
+  },
+  {
+    "name": "Fresh Alphonso Mango Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hvzduvxri5uotysdnp8h",
+    "category": "baskin-robins",
+    "desc": "Delicious Alphonso Mango based ice cream made with juicy, real Mango pulp. Just go for this aam-azing Mango ice cream! (Contains Milk)"
+  },
+  {
+    "name": "Fruit Overload Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ocgkyxam6drcvrcn3sbj",
+    "category": "baskin-robins",
+    "desc": "Orange flavoured ice cream adorned with exotic fruit chunks and jelly. This fruity delight is truly delicious! Get a load of this Fruit Overload ice cream!"
+  },
+  {
+    "name": "Chocolate Truffle Cake",
+    "price": "541.53",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wks8xduw91tdvtxg8hls",
+    "category": "baskin-robins",
+    "desc": "The signature BR Bavarian chocolate ice cream sandwiched between gooey chocolate sponge cakes. Decorated with decadent milk and dark chocolate swirls and cigars. Highly recommend this chocolate therapy!"
+  },
+  {
+    "name": "Black Forest Cake",
+    "price": "541.53",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vt3vcraecnpxyxtmprdj",
+    "category": "baskin-robins",
+    "desc": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party!"
+  },
+  {
+    "name": "Kit Kat Ice-cream Cake",
+    "price": "651.69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cgstmibuowbrmqtcg4hd",
+    "category": "baskin-robins",
+    "desc": "Smooth, creamy Dutch chocolate ice cream with Kit-Kat bits spread generously on top of a luscious chocolate sponge cake, and topped with crunchy Kit-Kat wafer biscuits and chocolate balls."
+  },
+  {
+    "name": "Blueberry Cheesecake",
+    "price": "566.95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vsj3a87967mkbqeh3eav",
+    "category": "baskin-robins",
+    "desc": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY!"
+  },
+  {
+    "name": "Lotus Biscoff Cake",
+    "price": "677.12",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/crgbh7dkkcvxbyi1m7zb",
+    "category": "baskin-robins",
+    "desc": "Want to give chocolate a miss? Then, try this! Luscious Biscoff ice cream generously spread over a bed of handmade Biscoff biscuit crust and rich vanilla sponge cake. Perfected with a delightfully golden brown caramel sauce and Lotus biscuit. Extraordinary!"
+  },
+  {
+    "name": "Bavarian Knight Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vqitv0xug2yqzk72o1yt",
+    "category": "baskin-robins",
+    "desc": "Bavarian Chocolate ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds. Chocolate, chocolate and then some more chocolate. This ice cream roll cake sounds perfect, doesn’t it?"
+  },
+  {
+    "name": "Red Velvet Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mn0kgib46u4vrudyqxjh",
+    "category": "baskin-robins",
+    "desc": "Red Velvet ice cream wrapped in red velvet marble cake & white chocolate truffle, drizzled with red velvet and white chocolate confectionery. This white chocolate and red velvet ice cream roll cake will have you dreaming of Christmas!"
+  },
+  {
+    "name": "Bavarian Knight Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tvuvsnkeou35w3j4s0u3",
+    "category": "baskin-robins",
+    "desc": "Bavarian Chocolate ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds. Chocolate, chocolate and then some more chocolate. This ice cream roll cake sounds perfect, doesnt it?"
+  },
+  {
+    "name": "Red Velvet Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ogpxsshvjezrrh4beqjh",
+    "category": "baskin-robins",
+    "desc": "Red Velvet ice cream wrapped in red velvet marble cake & white chocolate truffle, drizzled with red velvet and white chocolate confectionery. This white chocolate and red velvet ice cream roll cake will have you dreaming of Christmas!"
+  },
+  {
+    "name": "Italian Wafer Sandwich - Vanilla",
+    "price": "100",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pdiy90m9zyfqfy7x53tn",
+    "category": "baskin-robins",
+    "desc": "Crunchy. Creamy. Irresistible. Classic Vanilla ice cream wrapped in perfectly golden brown Italian wafer crisps dipped in a rich hot fudge sauce. Sprinkled with coloured sprinkles or chopped almonds- your choice. Divine, indeed."
+  },
+  {
+    "name": "Italian Wafer Sandwich - Chocolate",
+    "price": "100",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w67xy1prjc3nfmtsfcsl",
+    "category": "baskin-robins",
+    "desc": "Crunchy. Creamy. Irresistible. Decadent Dutch Chocolate ice cream wrapped in perfectly golden brown Italian wafer crisps dipped in a rich hot fudge sauce. Sprinkled with coloured sprinkles or chopped almonds- your choice. Divine, indeed."
+  },
+  {
+    "name": "My Mom is an Alien",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/t87hwgeouu3l7mvicawo",
+    "category": "baskin-robins",
+    "desc": "Whacky and fun, and super yum! A combination of dark chocolate, milk chocolate, and white chocolate flavoured ice cream loaded with pretzels and wheat crispies. Out of this world indeed!"
+  },
+  {
+    "name": "My Mom is an Alien (Handscooped)",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ghyewkqcmtfwx8wqdzv8",
+    "category": "baskin-robins",
+    "desc": "Whacky and fun, and super yum! A combination of dark chocolate, milk chocolate, and white chocolate flavoured ice cream loaded with pretzels and wheat crispies. Out of this world indeed!"
+  },
+  {
+    "name": "Classic Waffle",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w5glokigjelilzdpq3ue",
+    "category": "baskin-robins",
+    "desc": "Nothing beats the sure-fire magic of the classics. Try this warm, toasty waffle with a creamy scoop of classic vanilla ice cream and drizzled with a sinful chocolate sauce. Always a great go-to option!"
+  },
+  {
+    "name": "Merry Berry Strawberry Signature Waffle",
+    "price": "220",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ajlz0qdbz0mdm7msajml",
+    "category": "baskin-robins",
+    "desc": "A crispy, sweet dessert treat! Meet our toasty, crispy waffle topped with Very Berry Strawberry ice cream, a strawberry topping, fudge sauce, wheat crispies, whipped cream and a cherry. Looking to visit Strawberry Wonderland, anyone?"
+  },
+  {
+    "name": "Chocolate Lover's Signature Waffle",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tggdjmwlh1h5gvbwdbfx",
+    "category": "baskin-robins",
+    "desc": "A rich, chocolate waffle with chunks of gooey brownie, along with chocolate chips, butterscotch, and chocolate sauce comes with an indulgent scoop of Dutch Chocolate ice cream, whipped cream, and a cherry. Drooling already?"
+  },
+  {
+    "name": "Hershey's Kisses Caramel Signature Waffle",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nshhasuz78l0gyfrjvvj",
+    "category": "baskin-robins",
+    "desc": "This indulgent chocolate waffle is drizzled with chocolate syrup and butterscotch, decorated with Hershey’s Kisses, and served with a scoop of Hershey’s Kisses Caramel ice cream, topped with wheat crispies, and whipped cream. The cherry on top? There’s a cherry on top"
+  },
+  {
+    "name": "Choco Lava Cake Sundae (Vanilla)",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dd2k9dxc21bpshnoamzp",
+    "category": "baskin-robins",
+    "desc": "For the love of Choco Lava! Soft chocolate sponge cake with a creamy scoop of Vanilla ice cream, drizzled with a butterscotch topping and covered with chocolate sprinkles. Oh, and did we mention that it comes with gooey chocolate sauce in the middle?"
+  },
+  {
+    "name": "Choco Lava Cake Sundae (Chocolate)",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gbfstuyxirsxgy2f3zvv",
+    "category": "baskin-robins",
+    "desc": "For the love of Choco Lava! Soft chocolate sponge cake with a sinful scoop of Dutch Chocolate ice cream, drizzled with chocolate sauce and topped with chopped almonds. Oh, and did we mention that it comes with gooey chocolate sauce in the middle?"
+  },
+  {
+    "name": "Brownie On The Go",
+    "price": "235",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yxwmnhkrol7aokauslhi",
+    "category": "baskin-robins",
+    "desc": "Feeling peckish or have a sweet dessert wish? Go for a Brownie on The Go! 12 pieces of gooey, delicious Baskin Robbins brownie in a handy cup. So take it with you, or store it at home- there’s no wrong way to binge on this one."
+  },
+  {
+    "name": "Happyness Pack",
+    "price": "999",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lwyet6x3trffhxeegzx6",
+    "category": "baskin-robins",
+    "desc": "Two tubs of your favourite ice cream flavours, six golden waffle cones, two types of fun toppings, and two sachets of delectable Hershey's chocolate sauce packed together in a fun hamper that brings the parlour to you. A handy scooper with the treats just seals this deal – Perfect for a party at home or as a gift to your loved one."
+  },
+  {
+    "name": "Hershey's Kisses Caramel Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/puhtfckwt3rhw0izupwv",
+    "category": "baskin-robins",
+    "desc": "A heavenly mélange of Hershey’s cocoa with classic vanilla ice cream intertwined with our signature caramel ribbon. Get surprised with Hershey’s milk chocolate kisses bits in each bite. Mesmerizing!"
+  },
+  {
+    "name": "Hershey's Kisses Caramel Ice-cream Homepack",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/iv6wdxl89zgl2uaqaq7s",
+    "category": "baskin-robins",
+    "desc": "A heavenly mélange of Hershey’s cocoa with classic vanilla ice cream intertwined with our signature caramel ribbon. Get surprised with Hershey’s milk chocolate kisses bits in each bite. Mesmerizing!"
+  },
+  {
+    "name": "Hershey's Kisses Cake ",
+    "price": "651.69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h6xrk8hncbrekzccphz7",
+    "category": "baskin-robins",
+    "desc": "The decadence of Hershey’s Chocolate Overload ice cream meets two layers of delightfully soft chocolate sponge cake and is beautifully done up with milk chocolate Kisses, a whipped cream swirl, and golden edible balls. A must try!"
+  },
+  {
+    "name": "Hershey's Chocolate Heaven",
+    "price": "240",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ef9ehkepn5b3rrz5bygu",
+    "category": "baskin-robins",
+    "desc": "The delicious and chocolaty Hershey’s Kisses Caramel Ice Cream scoop placed over a warm and gooey BR Chocolate fudge brownie. Drizzled with luscious chocolate fudge sauce and a creamy whipped cream swirl. Loaded with Hershey’s milk chocolate kisses."
+  },
+  {
+    "name": "My Mom is an Alien",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/crivkkkwzyxa5wvfve18",
+    "category": "baskin-robins",
+    "desc": "Whacky and fun, and super yum! A combination of dark chocolate, milk chocolate, and white chocolate flavoured ice cream loaded with pretzels and wheat crispies. Out of this world indeed!"
+  },
+  {
+    "name": "Hershey's Kisses Caramel Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b5ophiuffdag9cftzndc",
+    "category": "baskin-robins",
+    "desc": "A heavenly mélange of Hershey’s cocoa with classic vanilla ice cream intertwined with our signature caramel ribbon. Get surprised with Hershey’s milk chocolate kisses bits in each bite. Mesmerizing!"
+  },
+  {
+    "name": "Mississippi Mud Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kzorjrdcvxd9khlaa1km",
+    "category": "baskin-robins",
+    "desc": "Delectable chocolate fudge and ice cream, married by a fudge ribbon and sprinkled with brownie pieces. Weve tripled up on chocolate with this Mississippi Mud flavour! Chocolate overload anyone?"
+  },
+  {
+    "name": "Belgian Bliss Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gtsssap7zwpoy05apuer",
+    "category": "baskin-robins",
+    "desc": "Rich Chocolate ice cream with hidden treasures of dark chocolate cookies, hugged by caramel ribbon. Delectable Chocolate delight is like no other,Sit back&enjoy this rich Belgian Bliss ice cream."
+  },
+  {
+    "name": "Bavarian Chocolate Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fyoumaj78lmqeg7mmbzn",
+    "category": "baskin-robins",
+    "desc": "Rich chocolate based ice cream adorned with chocolate pieces and cashew nut crispies. If it?s Bavarian Chocolate flavour then it has got to be sinful and intensely indulgent. Throw in a bit of crunch and you?ve got a truly divine chocolate ice cream treat."
+  },
+  {
+    "name": "Mint Milk Chocolate Chips Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/acrezmo9nixhowmscobm",
+    "category": "baskin-robins",
+    "desc": "An ice cream that tells the mint and chocolate love story like no other. This classic ice cream is a marriage of Mint and Milk Chocolate pieces."
+  },
+  {
+    "name": "Dutch Chocolate Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qfdlilodfjgvvzwnc3oz",
+    "category": "baskin-robins",
+    "desc": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours."
+  },
+  {
+    "name": "Three cheers chocolate Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rg0wlikrhf4bjtgfqcuj",
+    "category": "baskin-robins",
+    "desc": "A heavenly combination of chocolate and vanilla married together with chocolate chips and ribbon. A feisty ribbon twirling its way through this chocolate chip loaded chocolate and vanilla ice cream scoop. This ice cream is as enticing as they come!(Contains milk & soy)"
+  },
+  {
+    "name": "Gold Medal Ribbon Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vbh8oyqw4ju4ocjgq3cx",
+    "category": "baskin-robins",
+    "desc": "Heavenly medley of vanilla&chocolate, embraced by caramel ribbon. This vanilla &chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection."
+  },
+  {
+    "name": "Chocolate Mousse Royale Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/o64fenguc4wlqoz6n1wa",
+    "category": "baskin-robins",
+    "desc": "Mischievous chocolate chips playing peekaboo with frozen chocolate mousse dessert. There is no such thing as too much chocolate is there? How about you triple up on this cool chocolate Chip Mousse ice cream with a chocolate waffle cone?"
+  },
+  {
+    "name": "Chocolate Almond Praline Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gvznayadyidq2rzik7nc",
+    "category": "baskin-robins",
+    "desc": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)"
+  },
+  {
+    "name": "Hazelnut Rocher Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v3jtxapph2xm6zyohvau",
+    "category": "baskin-robins",
+    "desc": "Love at first bite! Rich and creamy rocher ice cream tossed with crunchy caramalised hazelnut pieces. We know you can?t wait to try!"
+  },
+  {
+    "name": "Morning Mystery",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jgqw7m2cz9bcza2oty6q",
+    "category": "baskin-robins",
+    "desc": "A fusion of creamy caramalised milk and crunchy cashews, raisins, black currant and tutti fruitti. Truly a flavour mystery worth exploring any time of the day!"
+  },
+  {
+    "name": "Cotton Candy Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/usaepnjno8ct9zfzfibj",
+    "category": "baskin-robins",
+    "desc": "Perky pink, purple and childhood coloured cotton candy flavoured ice cream. Were happy to let you know that we have fulfilled every childs wish of cotton candy ice cream."
+  },
+  {
+    "name": "Vanilla Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/c3wrlh0gw8d4yyd87esy",
+    "category": "baskin-robins",
+    "desc": "Not quite like a plain Jane, this is a rich, dense vanilla ice cream that you'll recommend to friends. Seriously creamy, seriously tasty, a lot can happen over a Vanilla ice cream! (Contains milk)"
+  },
+  {
+    "name": "Butterscotch Ribbon Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b146ui0zdu5gxf5ssyph",
+    "category": "baskin-robins",
+    "desc": "Vanilla ice cream swirled with butterscotch ribbon. This thick, sinful butterscotch ribbon will leave you going back for seconds!"
+  },
+  {
+    "name": "Honey Nut Crunch Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ltqvnotynvl1kpx7gzmz",
+    "category": "baskin-robins",
+    "desc": "Ice cream with rich caramel&honey praline almonds. Honey, nutty, crunchy&its delightful. What are you waiting for? Get yourself  load of this Honey Nut Crunch ice cream. (Contains milk & tree nuts)"
+  },
+  {
+    "name": "Splish Splash Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qclysdwkwykpl3iufkbf",
+    "category": "baskin-robins",
+    "desc": "Celestial ice cream with dark blue raspberry&light blueberry embrace. This delectable blue raspberry &blueberry ice cream scoop with leave you feeling blue. The right kind of blue! (Contains Milk)"
+  },
+  {
+    "name": "Hop Scotch Butterscotch Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ta1bws5tm5j1u1jtcrfl",
+    "category": "baskin-robins",
+    "desc": "With butterscotch base this ice cream has cashew crunch along with enticing butterscotch ribbon. Stop drooling, start clicking! Butterscotch ice cream calling out to you! (Contains milk & tree nuts)"
+  },
+  {
+    "name": "Roasted Californian Almond Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tdykp0kyi76f5s72ydyo",
+    "category": "baskin-robins",
+    "desc": "Vanilla ice cream with caramel ribbon&almond praline. Weve put together 2classics flavours with caramel ribbon stitching them together. This Almond Praline Gold proves sometime old is truly gold!"
+  },
+  {
+    "name": "Pralines 'N Cream Ice cream",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/eodg5e2yo4xrzyl1djri",
+    "category": "baskin-robins",
+    "desc": "Vanilla base decorated with praline coated pecans&delicate caramel ribbon.Creamy cool ice cream dotted with praline pecans has just the right amount of crunch&sweetness with swirled in caramel ribbon."
+  },
+  {
+    "name": "Roasted Coffee Creme Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/glwzjcvqxcu3iqxlvbxa",
+    "category": "baskin-robins",
+    "desc": "Luscious ice cream with freshly ground coffee. This cool coffee flavoured ice cream will delight all coffee lovers out there! (Contains milk)"
+  },
+  {
+    "name": "Raspberry Sorbet",
+    "price": "97",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zrae2uos1xml7ywoyfdq",
+    "category": "baskin-robins",
+    "desc": "Sweet and juicy raspberries swirled into a summer fresh sorbet. A refreshing treat to welcome this summer!"
+  },
+  {
+    "name": "Fresh Fruit Alphonso Mango Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n22aj4xnkuygwxhornzg",
+    "category": "baskin-robins",
+    "desc": "Delicious Alphonso Mango based ice cream made with juicy, real Mango pulp. Just go for this aam-azing Mango ice cream! (Contains Milk)"
+  },
+  {
+    "name": "Fresh Fruit Very Berry Strawberry Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wr5hw7urnbrmphd23tec",
+    "category": "baskin-robins",
+    "desc": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, its an all time favourite! (Contains Milk)"
+  },
+  {
+    "name": "Black Currant Ice cream",
+    "price": "92",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pvz0e53alekyhgmxpzmz",
+    "category": "baskin-robins",
+    "desc": "Black currant Ice cream with real black currant and raisins. This flavoured sweet treat is a universal favourite!"
+  },
+  {
+    "name": "Banana 'N Strawberries Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cyjw7gmmknlewrziltry",
+    "category": "baskin-robins",
+    "desc": "Ice cream with real banana and strawberries with strawberry ribbon. This Banana and Strawberry ice cream combination has stood the test of time."
+  },
+  {
+    "name": "Fruit Overload Ice cream",
+    "price": "83",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ju8gk7jjq8bu1ufbzn8i",
+    "category": "baskin-robins",
+    "desc": "Orange flavoured ice cream adorned with exotic fruit chunks and jelly. This fruity delight is truly delicious! Get a load of this Fruit Overload ice cream!"
+  },
+  {
+    "name": "Fresh Litchi Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ijxuz1kyozfkyaujprqi",
+    "category": "baskin-robins",
+    "desc": "Litchi ice cream with fresh Litchi pieces makes for a lush, delicious treat! (Contains Milk)"
+  },
+  {
+    "name": "Fresh Fruit Chikoo Ice cream",
+    "price": "69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r7oagv1wa1xx3br6f4gy",
+    "category": "baskin-robins",
+    "desc": "Rich natural Chikoo ice cream with real Chikoo pieces (Contains Milk)"
+  },
+  {
+    "name": "My Mom is an Alien",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ghyewkqcmtfwx8wqdzv8",
+    "category": "baskin-robins",
+    "desc": "Whacky and fun, and super yum! A combination of dark chocolate, milk chocolate, and white chocolate flavoured ice cream loaded with pretzels and wheat crispies. Out of this world indeed!"
+  },
+  {
+    "name": "Hershey's Kisses Caramel Ice cream",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uz2pj1eutouhjkexvjk1",
+    "category": "baskin-robins",
+    "desc": "A heavenly melange of Hershey's cocoa with classic vanilla ice cream intertwined with our signature caramel ribbon. Get surprised with Hershey's milk chocolate kisses bits in each bite. Mesmerizing!"
+  },
+  {
+    "name": "Mississippi Mud Ice cream",
+    "price": "317.80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/i2nnejks3mszudmmrqas",
+    "category": "baskin-robins",
+    "desc": "Delectable chocolate fudge and ice cream, married by a fudge ribbon and sprinkled with brownie pieces. We?ve tripled up on chocolate with this Mississippi Mud flavour! Chocolate overload anyone?"
+  },
+  {
+    "name": "Bavarian Chocolate Ice cream",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ujhlso47hmlhj6mkn60j",
+    "category": "baskin-robins",
+    "desc": "Rich chocolate based ice cream adorned with chocolate pieces and cashew nut crispies. If it?s Bavarian Chocolate flavour then it?s gotta be sinful and intensely indulgent. Throw in a bit of crunch and you?ve got a truly divine chocolate ice cream treat."
+  },
+  {
+    "name": "Belgian Bliss Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/idz1aihvjvrxlqkyzxnp",
+    "category": "baskin-robins",
+    "desc": "Rich Chocolate ice cream with hidden treasures of dark chocolate cookies, hugged by a caramel ribbon. This delectable Chocolate delight is like no other! Sit back and enjoy this rich Belgian Bliss ice cream."
+  },
+  {
+    "name": "Mint Milk Chocolate Chips Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tmbgqdf2bqdzamya2vam",
+    "category": "baskin-robins",
+    "desc": "An ice cream that tells the mint and chocolate love story like no other. This classic ice cream is a marriage of Mint and Milk Chocolate pieces."
+  },
+  {
+    "name": "Gold Medal Ribbon Ice cream",
+    "price": "317.80",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ledumhbaodrkpnpmeiin",
+    "category": "baskin-robins",
+    "desc": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection."
+  },
+  {
+    "name": "Dutch Chocolate Ice cream",
+    "price": "288.14",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yvbbhtmoqftviw1isiqu",
+    "category": "baskin-robins",
+    "desc": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours."
+  },
+  {
+    "name": "Three cheers chocolate Ice cream",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zoirwwr2e59yxagj3khc",
+    "category": "baskin-robins",
+    "desc": "A heavenly combination of chocolate and vanilla married together with chocolate chips and ribbon. A feisty ribbon twirling its way through this chocolate chip loaded chocolate and vanilla ice cream scoop. This ice cream is as enticing as they come!(Contains milk & soy)"
+  },
+  {
+    "name": "Chocolate Mousse Royale Ice cream",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qivr6oon4fvew2ul97c1",
+    "category": "baskin-robins",
+    "desc": "Mischievous chocolate chips playing peekaboo with frozen chocolate mousse dessert. There?s no such thing as too much chocolate is there? How about you triple up on this cool chocolate Chip Mousse ice cream with a chocolate waffle cone?"
+  },
+  {
+    "name": "Hazelnut Rocher Ice cream",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zpcpwnivqrp8ax7riqx9",
+    "category": "baskin-robins",
+    "desc": "Love at first bite! Rich and creamy rocher ice cream tossed with crunchy caramalised hazelnut pieces. We know you can?t wait to try!"
+  },
+  {
+    "name": "Chocolate Almond Praline Ice cream",
+    "price": "339",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xvnhfsvknf9g2xval0ef",
+    "category": "baskin-robins",
+    "desc": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)"
+  },
+  {
+    "name": "Morning Mystery",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bhthvheqfkrvkxjjwdzv",
+    "category": "baskin-robins",
+    "desc": "A fusion of creamy caramalised milk and crunchy cashews, raisins, black currant and tutti fruitti. Truly a flavour mystery worth exploring any time of the day!"
+  },
+  {
+    "name": "Honey Nut Crunch Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rcqgrzdcffvwbpda0jrm",
+    "category": "baskin-robins",
+    "desc": "Ice cream with rich caramel and honey praline almonds. Honey, it?s nutty, it?s crunchy and it?s delightful. What are you waiting for? Get yourself a load of this Honey Nut Crunch ice cream. (Contains milk & tree nuts)"
+  },
+  {
+    "name": "Pralines 'N Cream Ice cream",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vcf48kgtzfuaijeoufic",
+    "category": "baskin-robins",
+    "desc": "A vanilla base decorated with praline coated pecans and a delicate caramel ribbon. This creamy cool ice cream dotted with praline pecans has just the right amount of crunch and sweetness with a swirled in caramel ribbon."
+  },
+  {
+    "name": "Cotton Candy Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tacxv20qeee9sksnh0ze",
+    "category": "baskin-robins",
+    "desc": "Perky pink, purple and childhood coloured cotton candy flavoured ice cream. We?re happy to let you know that we have fulfilled every child?s wish of cotton candy ice cream."
+  },
+  {
+    "name": "Roasted Californian Almond Ice cream",
+    "price": "288.14",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qj4bnj8r0h2i6dms1eps",
+    "category": "baskin-robins",
+    "desc": "Vanilla ice cream with caramel ribbon and almond praline. We?ve put together two classics flavours with a caramel ribbon stitching them together. This Almond Praline Gold proves that sometime old is truly gold! \n(Contains milk & tree nuts)"
+  },
+  {
+    "name": "Butterscotch Ribbon Ice cream",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qfdiaqkxqwemonirbnwo",
+    "category": "baskin-robins",
+    "desc": "Vanilla ice cream swirled with butterscotch ribbon. This thick, sinful butterscotch ribbon will leave you going back for seconds!"
+  },
+  {
+    "name": "Hop Scotch Butterscotch Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aahjpm8ivqvxq8y9ctam",
+    "category": "baskin-robins",
+    "desc": "With a butterscotch base, this ice cream has cashew crunch along with an enticing butterscotch ribbon. Stop drooling, start clicking! Our Butterscotch ice cream is calling out to you! (Contains milk & tree nuts)"
+  },
+  {
+    "name": "Splish Splash Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/l7thdgicdxxw3vbjowkd",
+    "category": "baskin-robins",
+    "desc": "Celestial ice cream with a dark blue raspberry and light blueberry embrace. This delectable blue raspberry and blueberry ice cream scoop with leave you feeling blue. The right kind of blue! (Contains Milk)"
+  },
+  {
+    "name": "Raspberry Sorbet",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pczpdhy5kb6zxb8o9gwd",
+    "category": "baskin-robins",
+    "desc": "Sweet and juicy raspberries swirled into a summer fresh sorbet. A refreshing treat to welcome this summer!"
+  },
+  {
+    "name": "Fresh Very Berry Strawberry Ice cream",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ybgg7x946wgccj182y5l",
+    "category": "baskin-robins",
+    "desc": "Sublime Strawberry ice cream with real strawberry pieces. This Strawberry ice cream is a childhood favourite. Scrap that actually, it?s an all time favourite! (Contains Milk)"
+  },
+  {
+    "name": "Fresh Alphonso Mango Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hvzduvxri5uotysdnp8h",
+    "category": "baskin-robins",
+    "desc": "Delicious Alphonso Mango based ice cream made with juicy, real Mango pulp. Just go for this aam-azing Mango ice cream! (Contains Milk)"
+  },
+  {
+    "name": "Banana 'N Strawberries Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bfp7qvumtyfonqvuvxkb",
+    "category": "baskin-robins",
+    "desc": "Ice cream with real banana and strawberries with strawberry ribbon. This Banana and Strawberry ice cream combination has stood the test of time. You simply cannot go wrong with this delicious ice cream."
+  },
+  {
+    "name": "Fruit Overload Ice cream",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ocgkyxam6drcvrcn3sbj",
+    "category": "baskin-robins",
+    "desc": "Orange flavoured ice cream adorned with exotic fruit chunks and jelly. This fruity delight is truly delicious! Get a load of this Fruit Overload ice cream!"
+  },
+  {
+    "name": "Black Currant Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/j0uvimt58fzhh9i6fovj",
+    "category": "baskin-robins",
+    "desc": "Black currant Ice cream with real black currant and raisins. This flavoured sweet treat is a universal favourite!"
+  },
+  {
+    "name": "Fresh Litchi Ice cream",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bd9igeatwboqch0oycqi",
+    "category": "baskin-robins",
+    "desc": "Litchi ice cream with fresh Litchi pieces makes for a lush, delicious treat! (Contains Milk)"
+  },
+  {
+    "name": "Fresh Chikoo Ice cream",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kpz7ix8xy8au5gxyvztc",
+    "category": "baskin-robins",
+    "desc": "Rich natural Chikoo ice cream with real Chikoo pieces (Contains Milk)"
+  },
+  {
+    "name": "No Added Sugar D'Lites Bavarian Chocolate Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ujhlso47hmlhj6mkn60j",
+    "category": "baskin-robins",
+    "desc": "Your favourite Bavarian Chocolate ice cream is now available with no added sugar! Indulge in this rich chocolate based ice cream adorned with chocolate pieces and cashew nut crispies."
+  },
+  {
+    "name": "No Added Sugar D'Lites Very Berry Strawberry Ice cream",
+    "price": "309.32",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/epoosrcuq0ihbpdxwupu",
+    "category": "baskin-robins",
+    "desc": "Your childhood favourite now in a no added sugar version. Sublime strawberry flavoured ice cream laden with natural strawberry puree, as well as Strawberry fruit chunks."
+  },
+  {
+    "name": "Chocolate Truffle Cake",
+    "price": "541.53",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wks8xduw91tdvtxg8hls",
+    "category": "baskin-robins",
+    "desc": "The signature BR Bavarian chocolate ice cream sandwiched between gooey chocolate sponge cakes. Decorated with decadent milk and dark chocolate swirls and cigars. Highly recommend this chocolate therapy!"
+  },
+  {
+    "name": "Black Forest Cake",
+    "price": "541.53",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vt3vcraecnpxyxtmprdj",
+    "category": "baskin-robins",
+    "desc": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party!"
+  },
+  {
+    "name": "Cotton Candy Cake",
+    "price": "550",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qjo4gb2wpkxj7aqzgipq",
+    "category": "baskin-robins",
+    "desc": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds!"
+  },
+  {
+    "name": "Red Velvet Fantasy Cake",
+    "price": "566.95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wt0bz4gjpmexoqdjg1i6",
+    "category": "baskin-robins",
+    "desc": "A divine combo of soft red velvet?cake?intertwined with creamy Cookies n Cream ice cream topped with cookies and Red velvet?cake?crumble.?"
+  },
+  {
+    "name": "Kit Kat Ice-cream Cake",
+    "price": "651.69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cgstmibuowbrmqtcg4hd",
+    "category": "baskin-robins",
+    "desc": "Smooth, creamy Dutch chocolate ice cream with Kit-Kat bits spread generously on top of a luscious chocolate sponge cake, and topped with crunchy Kit-Kat wafer biscuits and chocolate balls."
+  },
+  {
+    "name": "Blueberry Cheesecake",
+    "price": "566.95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vsj3a87967mkbqeh3eav",
+    "category": "baskin-robins",
+    "desc": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY!"
+  },
+  {
+    "name": "Pineapple Cake",
+    "price": "541.53",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wcuffm3lzap60tjnlzbo",
+    "category": "baskin-robins",
+    "desc": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion!"
+  },
+  {
+    "name": "Lotus Biscoff Cake",
+    "price": "677.12",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/crgbh7dkkcvxbyi1m7zb",
+    "category": "baskin-robins",
+    "desc": "Want to give chocolate a miss? Then, try this! Luscious Biscoff ice cream generously spread over a bed of handmade Biscoff biscuit crust and rich vanilla sponge cake. Perfected with a delightfully golden brown caramel sauce and Lotus biscuit. Extraordinary!"
+  },
+  {
+    "name": "Hershey's Kisses Cake",
+    "price": "651.69",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dexybso9zkvqwdwhvvmh",
+    "category": "baskin-robins",
+    "desc": "The decadence of Hershey?s Chocolate Overload ice cream meets two layers of delightfully soft chocolate sponge cake and is beautifully done up with Hershey's Kisses Milk Chocolate, a whipped cream swirl, and golden edible balls. A must try!"
+  },
+  {
+    "name": "Bavarian Knight Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vqitv0xug2yqzk72o1yt",
+    "category": "baskin-robins",
+    "desc": "Bavarian Chocolate ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds. Chocolate, chocolate and then some more chocolate. This ice cream roll cake sounds perfect, doesn’t it?"
+  },
+  {
+    "name": "Red Velvet Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mn0kgib46u4vrudyqxjh",
+    "category": "baskin-robins",
+    "desc": "Red Velvet ice cream wrapped in red velvet marble cake & white chocolate truffle, drizzled with red velvet and white chocolate confectionery. This white chocolate and red velvet ice cream roll cake will have you dreaming of Christmas!"
+  },
+  {
+    "name": "Mississippi Mud Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/htfwldyo93k6gu5qj02a",
+    "category": "baskin-robins",
+    "desc": "Mississippi Mud ice cream wrapped in brownie chocolate cake & chocolate truffle, drizzled with chocolate confectionery & pecan pralines. A luxurious chocolate delight all swirled into one cake make a sinful chocolate ice cream roll cake."
+  },
+  {
+    "name": "Classic Fudge Roll Cake Slice",
+    "price": "115",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/x4wkqxeaxvokwmjrmui0",
+    "category": "baskin-robins",
+    "desc": "This ice cream roll cake is a classic combination of vanilla ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds"
+  },
+  {
+    "name": "Bavarian Knight Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tvuvsnkeou35w3j4s0u3",
+    "category": "baskin-robins",
+    "desc": "Bavarian Chocolate ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds. Chocolate, chocolate and then some more chocolate. This ice cream roll cake sounds perfect, doesnt it?"
+  },
+  {
+    "name": "Classic Fudge Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cwzifem8ym9pejo32uzp",
+    "category": "baskin-robins",
+    "desc": "This ice cream roll cake is a classic combination of vanilla ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds"
+  },
+  {
+    "name": "Mississippi Mud Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/semzpboh9ov75dl0wxmr",
+    "category": "baskin-robins",
+    "desc": "Mississippi Mud ice cream wrapped in brownie chocolate cake & chocolate truffle, drizzled with chocolate confectionery & pecan pralines. A luxurious chocolate delight all swirled into one cake make a sinful chocolate ice cream roll cake."
+  },
+  {
+    "name": "Red Velvet Roll Cake",
+    "price": "694.07",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ogpxsshvjezrrh4beqjh",
+    "category": "baskin-robins",
+    "desc": "Red Velvet ice cream wrapped in red velvet marble cake & white chocolate truffle, drizzled with red velvet and white chocolate confectionery. This white chocolate and red velvet ice cream roll cake will have you dreaming of Christmas!"
+  },
+  {
+    "name": "Thunder Hot Fudge",
+    "price": "185",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zcfoka0xaj3o6px5ihml",
+    "category": "baskin-robins",
+    "desc": "Creamy Vanilla and decadent Three Cheers Chocolate ice creams come together to create this extraordinary treat. Made even more special with a delicious hot fudge sauce and a dollop of whipped cream?Do we hear your taste buds thanking us already?"
+  },
+  {
+    "name": "Choco Lava Cake Sundae (Chocolate)",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gbfstuyxirsxgy2f3zvv",
+    "category": "baskin-robins",
+    "desc": "For the love of Choco Lava! Soft chocolate sponge cake with a sinful scoop of Dutch Chocolate ice cream, drizzled with chocolate sauce and topped with chopped almonds. Oh, and did we mention that it comes with gooey chocolate sauce in the middle?"
+  },
+  {
+    "name": "Oreo Cookie",
+    "price": "210",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jwxrz3wxtl6sapiesqbq",
+    "category": "baskin-robins",
+    "desc": "We took everyones favourite cookie and made it into a treat that you are unlikely to forget. Stacks of Oreo cookies, creamy Vanilla ice cream, and rich chocolate ice cream come together with hot fudge sauce and whipped cream. We will not blame you if you are smitten."
+  },
+  {
+    "name": "Nutty Professor",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/a7hyd8fv1mqfmee5kyje",
+    "category": "baskin-robins",
+    "desc": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before."
+  },
+  {
+    "name": "Brownie A La Mode",
+    "price": "300",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jbb0397j4bep6f8ygpgn",
+    "category": "baskin-robins",
+    "desc": "When brownies are the answer, anyone seldom cares what the question is! Meet our chocolicious combination of Three Cheers Chocolate and Chocolate ice cream on a delicious brownie cake, topped off with hot fudge sauce and whipped cream. Decadence, indeed!"
+  },
+  {
+    "name": "Hershey's Chocolate Heaven",
+    "price": "240",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ef9ehkepn5b3rrz5bygu",
+    "category": "baskin-robins",
+    "desc": "The delicious and chocolaty Hershey's Kisses Caramel Ice Cream scoop placed over a warm and gooey BR Chocolate fudge brownie. Drizzled with luscious chocolate fudge sauce and a creamy whipped cream swirl. Loaded with Hersheys milk chocolate kisses."
+  },
+  {
+    "name": "Hershey's A Nutty Affair",
+    "price": "280",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ztoidpwlbaqu4obgzknk",
+    "category": "baskin-robins",
+    "desc": "Hersheys chocolate overload ice cream plus Roasted Californian Almond ice cream. Decorated with a dollop of rich chocolaty Hersheys Almond spread, whipped cream, and our favourite, Hersheys kisses. Wait, we're not done yet! Add to it a sprinkle of chopped almonds and chocolate chips"
+  },
+  {
+    "name": "Vanilla Affair",
+    "price": "150",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mgqz2mt7mgorxwqgie26",
+    "category": "baskin-robins",
+    "desc": "A warm gooey brownie with the world’s best vanilla ice cream, topped with hot fudge or butterscotch sauce."
+  },
+  {
+    "name": "Choco Lava Cake Sundae (Vanilla)",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dd2k9dxc21bpshnoamzp",
+    "category": "baskin-robins",
+    "desc": "For the love of Choco Lava! Soft chocolate sponge cake with a creamy scoop of Vanilla ice cream, drizzled with a butterscotch topping and covered with chocolate sprinkles. Oh, and did we mention that it comes with gooey chocolate sauce in the middle?"
+  },
+  {
+    "name": "Chocolate Cheer",
+    "price": "150",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pjzehgzkvndruvmxchrd",
+    "category": "baskin-robins",
+    "desc": "A yummylicious gooey and chocolaty warm brownie topped with your favourite Three Cheers Chocolate ice cream and hot fudge or butterscotch sauce."
+  },
+  {
+    "name": "Belgian Dream",
+    "price": "170",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mtpulfvexclgvgqatkib",
+    "category": "baskin-robins",
+    "desc": "Warm brownie topped with delectable Belgian Bliss ice cream and hot fudge or butterscotch sauce."
+  },
+  {
+    "name": "Bavarian Blast",
+    "price": "180",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ppa3q1vlqwbtmxmb2j62",
+    "category": "baskin-robins",
+    "desc": "A delicious warm brownie served with a scoop of indulgent Bavarian Chocolate ice cream topped with hot fudge"
+  },
+  {
+    "name": "Hershey's Kisses Caramel Signature Waffle",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nshhasuz78l0gyfrjvvj",
+    "category": "baskin-robins",
+    "desc": "This indulgent chocolate waffle is drizzled with chocolate syrup and butterscotch, decorated with Hershey’s Kisses, and served with a scoop of Hershey’s Kisses Caramel ice cream, topped with wheat crispies, and whipped cream. The cherry on top? There’s a cherry on top"
+  },
+  {
+    "name": "Chocolate Lover's Signature Waffle",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tggdjmwlh1h5gvbwdbfx",
+    "category": "baskin-robins",
+    "desc": "A rich, chocolate waffle with chunks of gooey brownie, along with chocolate chips, butterscotch, and chocolate sauce comes with an indulgent scoop of Dutch Chocolate ice cream, whipped cream, and a cherry. Drooling already?"
+  },
+  {
+    "name": "Merry Berry Strawberry Signature Waffle",
+    "price": "220",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ajlz0qdbz0mdm7msajml",
+    "category": "baskin-robins",
+    "desc": "A crispy, sweet dessert treat! Meet our toasty, crispy waffle topped with Very Berry Strawberry ice cream, a strawberry topping, fudge sauce, wheat crispies, whipped cream and a cherry. Looking to visit Strawberry Wonderland, anyone?"
+  },
+  {
+    "name": "Classic Waffle",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w5glokigjelilzdpq3ue",
+    "category": "baskin-robins",
+    "desc": "Nothing beats the sure-fire magic of the classics. Try this warm, toasty waffle with a creamy scoop of classic vanilla ice cream and drizzled with a sinful chocolate sauce. Always a great go-to option!"
+  },
+  {
+    "name": "Brownie On The Go",
+    "price": "235",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yxwmnhkrol7aokauslhi",
+    "category": "baskin-robins",
+    "desc": "Feeling peckish or have a sweet dessert wish? Go for a Brownie on The Go! 12 pieces of gooey, delicious Baskin Robbins brownie in a handy cup. So take it with you, or store it at home- there’s no wrong way to binge on this one."
+  },
+  {
+    "name": "Choco Lava Cake",
+    "price": "85",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kpk3h1sgboed4acwtox9",
+    "category": "baskin-robins",
+    "desc": ""
+  },
+  {
+    "name": "Italian Wafer Sandwich - Vanilla",
+    "price": "100",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pdiy90m9zyfqfy7x53tn",
+    "category": "baskin-robins",
+    "desc": "Crunchy. Creamy. Irresistible. Classic Vanilla ice cream wrapped in perfectly golden brown Italian wafer crisps dipped in a rich hot fudge sauce. Sprinkled with coloured sprinkles or chopped almonds- your choice. Divine, indeed."
+  },
+  {
+    "name": "Italian Wafer Sandwich - Chocolate",
+    "price": "100",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w67xy1prjc3nfmtsfcsl",
+    "category": "baskin-robins",
+    "desc": "Crunchy. Creamy. Irresistible. Decadent Dutch Chocolate ice cream wrapped in perfectly golden brown Italian wafer crisps dipped in a rich hot fudge sauce. Sprinkled with coloured sprinkles or chopped almonds- your choice. Divine, indeed."
+  },
+  {
+    "name": "Classic tub combo",
+    "price": "450",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/blj4l6bq9nefcnlnct4g",
+    "category": "baskin-robins",
+    "desc": "Set the course for your own happyness adventure with this delightful combo. Pick two of your favourites to start the fun!"
+  }
+]

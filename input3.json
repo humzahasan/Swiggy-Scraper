@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "Momo Mia Pizza - Veg",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cqntqn92nm4fte7ne4cx",
+    "category": "pizza-hut",
+    "desc": "Epic combination of signature pan crust, delicious paneer & veg momos topped with spicy Schezwan sauce, onion, capsicum, sweet corn & 100% mozzarella"
+  },
+  {
+    "name": "Momo Mia Pizza - Non Veg",
+    "price": "309",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/opxq7umcgblgb5ff53ei",
+    "category": "pizza-hut",
+    "desc": "Epic combination of signature pan crust, delicious chicken momos topped with spicy Schezwan sauce, Schezwan meatballs, onion, capsicum & 100% mozzarella"
+  },
+  {
+    "name": "Baked Cheesy Momos - Veg",
+    "price": "185",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gmxf5m3a5z2iqbc9piba",
+    "category": "pizza-hut",
+    "desc": "Paneer & veg momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !"
+  },
+  {
+    "name": "Baked Cheesy Momos - Non Veg",
+    "price": "205",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vh0dyarbhoimnvzsozwh",
+    "category": "pizza-hut",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !"
+  },
+  {
+    "name": "Momo Mia Meal for 1 Veg",
+    "price": "299",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gl8ux45yldgajxpmm4pe",
+    "category": "pizza-hut",
+    "desc": "EPIC “Meal for 1” deal – Get 1 Veg Personal Momo Mia pizza and 1 Pepsi PET  "
+  },
+  {
+    "name": "Momo Mia Meal for 1 Non Veg",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/emdjnkjx7k2j2rpjsxt9",
+    "category": "pizza-hut",
+    "desc": "EPIC “Meal for 1” deal – Get 1 Non Veg Personal Momo Mia pizza and 1 Pepsi PET  "
+  },
+  {
+    "name": "Momo Mia Choco Sundae Meal for 1 Veg",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gvhv1o44ebgpfvys2xop",
+    "category": "pizza-hut",
+    "desc": "Enjoy \"Meal for 1\" with 1 Veg Personal Momo Mia pizza and 1 Choco Sundae (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Momo Mia Choco Sundae Meal for 1 Non Veg",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ugmrey03qow4fhq14qx2",
+    "category": "pizza-hut",
+    "desc": "Enjoy \"Meal for 1\" with 1 Non Veg Momo Mia pizza and 1 Choco Sundae (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Baked Cheesy Momo Meal for 1 Veg",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qwax8d7hxmon8dd4ssrf",
+    "category": "pizza-hut",
+    "desc": "Drool over \"Meal for 1\" with 1 Veg Baked Cheesy Momo and 1 Pepsi PET  "
+  },
+  {
+    "name": "Baked Cheesy Momo Meal for 1 Non Veg",
+    "price": "249",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vnautiima746ivi2yb7r",
+    "category": "pizza-hut",
+    "desc": "Drool over \"Meal for 1\" with 1 Non-Veg Baked Cheesy Momo and 1 Pepsi PET  "
+  },
+  {
+    "name": "Kebab e Crust Sausage Meal for 2",
+    "price": "549",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hrqfg55n8a1n9cihhkvf",
+    "category": "pizza-hut",
+    "desc": "1 Med Chicken sausage Kebab Crust, 1 Garlic bread stix and  1 Pepsi Pet"
+  },
+  {
+    "name": "Kebab e Crust Tikka Meal for 2",
+    "price": "649",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w4oupeqx1exkwq8ybhq9",
+    "category": "pizza-hut",
+    "desc": "1 Med Chicken tikka/Malai tikka Kebab Crust, 1 Garlic bread stix and  1 Pepsi Pet"
+  },
+  {
+    "name": "2 Personal Veg Pizzas @ Rs-479",
+    "price": "479",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mlz5mhaljkfvsnq6dlwz",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg personal pan pizzas @ Rs 479 only"
+  },
+  {
+    "name": "2 Personal Non-Veg Pizzas @ Rs-529",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wrwu0vh1nlo9a3lkuils",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg personal pan pizzas @ Rs 529 only"
+  },
+  {
+    "name": "2 Medium Veg Pizzas @ Rs-379 each",
+    "price": "788",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dvyzgquplwzwmzmcrghn",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg medium pan pizzas @ Rs 379 each"
+  },
+  {
+    "name": "2 Medium Non-Veg Pizzas @ Rs 394 each",
+    "price": "788",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hwt6e8xanytrodxi3wtc",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg medium pan pizzas @ Rs 394 each"
+  },
+  {
+    "name": "Hut favourite for 2 veg @ Rs 399",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/axge4xxslcurourtwonr",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Pizza (Upto delight range) and 1 Garlic Bread stix"
+  },
+  {
+    "name": "3 Course Meal for 2 Veg @ Rs 449",
+    "price": "449",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vwnwg3wkh8vamngsc7nt",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Pizza (Upto delight range), 1 Garlic Bread stix and Pepsi Pet @ Rs 449"
+  },
+  {
+    "name": "Hut favourite for 4 Veg @ Rs 775",
+    "price": "775",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vjh1qxlsl3rwoiuvzpxw",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "Hut favourite for 4 Non-Veg @ Rs 875",
+    "price": "875",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szdkerhannjnbprhcl1x",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "My Box-Veg Starting @ Rs. 209",
+    "price": "209",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zxmqti0fa89nk5qm2clc",
+    "category": "pizza-hut",
+    "desc": "1 Personal Veg Pizza , 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "My Box Non-Veg Starting at Rs. 269",
+    "price": "269",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xfcjuhun5uxrmjzcdhlf",
+    "category": "pizza-hut",
+    "desc": "1 Personal Non-Veg Pizza , 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "Margherita",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d22idtuzffj7fogkgxx2",
+    "category": "pizza-hut",
+    "desc": "Nothing but cheese!"
+  },
+  {
+    "name": "Corn & Cheese",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pl5htqqu9r1jw4wurrmk",
+    "category": "pizza-hut",
+    "desc": "Cheese & sweet corn."
+  },
+  {
+    "name": "Veggie Feast",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pqrhrbkjauhuz9unzwvr",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, sweet corn."
+  },
+  {
+    "name": "Tandoori Paneer",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cijuato5w3n7a28jc4vg",
+    "category": "pizza-hut",
+    "desc": "Spiced paneer, onion, green capsicum & red paprika in tandoori sauce"
+  },
+  {
+    "name": "Farmers Pick",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bbqw7rozorossijr2oub",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, red capsicum, mushroom & baby corn"
+  },
+  {
+    "name": "Country Feast",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dlrtuuvmgqxsmzqujqyi",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, sweet corn, tomato & mushroom"
+  },
+  {
+    "name": "Veggie Supreme",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sgbobtbxlojbtdnr2m5k",
+    "category": "pizza-hut",
+    "desc": "Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese"
+  },
+  {
+    "name": "Chicken Sausage",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bcfjrbpshgaegrbhy18e",
+    "category": "pizza-hut",
+    "desc": "Cheesy Chicken Sausages | Onion"
+  },
+  {
+    "name": "Chicken Tikka",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xt8zrp5gn4s76nkxzcuu",
+    "category": "pizza-hut",
+    "desc": "Chicken Tikka chunks topped with tomatoes |onions | Cheese"
+  },
+  {
+    "name": "Triple Chicken Feast",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/flrbyptxa374zsgocajm",
+    "category": "pizza-hut",
+    "desc": "Schezwan chicken meatball, herbed chicken, chicken sausage, green capsicum, onion & red paprika"
+  },
+  {
+    "name": "Chicken Supreme",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mkiopegydp504qadvovm",
+    "category": "pizza-hut",
+    "desc": "Herbed chicken, schezwan chicken meatball & chicken tikka"
+  },
+  {
+    "name": "Garlic Breadstix",
+    "price": "99",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ruo3xjwfe1s0p0nyrrtd",
+    "category": "pizza-hut",
+    "desc": "Garlic Breadsticks, the perfect pizza companion."
+  },
+  {
+    "name": "Creamy Garlic Breadsticks",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h969hjbthmnuqevte9qj",
+    "category": "pizza-hut",
+    "desc": "Classic Garlic breadsticks with a twist of creamy sauce"
+  },
+  {
+    "name": "Cheese Garlic Bread",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/apkptbre2ktvogzfaxgf",
+    "category": "pizza-hut",
+    "desc": "Nothing beats our garlic bread! Period!"
+  },
+  {
+    "name": "Spicy Baked Chicken Wings",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vp7glubwznr2otbcdmwj",
+    "category": "pizza-hut",
+    "desc": "Tender and Juicy sweet chilli chicken wings."
+  },
+  {
+    "name": "Spicy Baked Chicken Wings (4 pc)",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/so3kntatseexhjpecgx5",
+    "category": "pizza-hut",
+    "desc": "4 pcs of Tender and Juicy sweet chilly chicken wings."
+  },
+  {
+    "name": "Pepsi Pet Bottle",
+    "price": "57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/adn6fie4bf2lyvxb42ui",
+    "category": "pizza-hut",
+    "desc": ""
+  },
+  {
+    "name": "Spiced Paneer",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nw70gegocmywylu1d0gu",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "Veg Kebab Surprise",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/numzhhwtqzqwiczqovbe",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "Veggie Supreme",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gwfnlvdlm2ky1ffffgmi",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "Double Paneer Supreme",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m9lhvluwqircrnvfgqlh",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "Chicken Pepperoni",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fssj8tlp7yc8369ww8hp",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "Chicken Supreme",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gi7ytl3oe2327x3ypibr",
+    "category": "pizza-hut",
+    "desc": "Light & crispy new San Francisco Style Crust, topped with Chef's special sauce and a drizzle of extra virgin olive oil."
+  },
+  {
+    "name": "San Francisco Style My Box Veg",
+    "price": "209",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ji56qgjphryhjo63k4wj",
+    "category": "pizza-hut",
+    "desc": "1 Personal San Francisco Style Veg Pizza, 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "San Francisco Style My Box Non Veg",
+    "price": "269",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gkog3ygx5brfl78sdgiq",
+    "category": "pizza-hut",
+    "desc": "1 Personal San Francisco Style Non Veg Pizza, 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 2 Veg",
+    "price": "449",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ql1rjdh91cez1pfk81q4",
+    "category": "pizza-hut",
+    "desc": "1 Medium San Francisco Style Veg Pizza upto Signature, 1 Garlic Bread, 1 Pepsi"
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 2 Non Veg",
+    "price": "499",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/avoklbtu2t2pl02hrsoy",
+    "category": "pizza-hut",
+    "desc": "1 Medium San Francisco Style Veg Pizza upto Signature, 1 Garlic Bread, 1 Pepsi"
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 4 Veg @ 799",
+    "price": "799",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/crup0ilzejpjhtzco7by",
+    "category": "pizza-hut",
+    "desc": "Super Saver Meal Combo @ 799 - 2 Medium Veg San Francisco Style Pizza of Choice, 2 Garlic Breadstixs, 2 Pepsi Pet Bottles"
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 4 Non Veg @ 899",
+    "price": "899",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uvtbklsh47ihwav0gcqv",
+    "category": "pizza-hut",
+    "desc": "Super Saver Meal Combo @ 899 - 2 Medium Non Veg San Francisco Style Pizza of Choice, 2 Garlic Breadstixs, 2 Pepsi Pet Bottles."
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 4 Veg @ 899",
+    "price": "899",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/crup0ilzejpjhtzco7by",
+    "category": "pizza-hut",
+    "desc": "Super Saver Meal Combo @ 899 - 2 Medium Veg San Francisco Style Pizza of Choice, 2 Garlic Breadstixs, 2 Pepsi Pet Bottles."
+  },
+  {
+    "name": "San Francisco Style Hut Treat Meal for 4 Non Veg @ 999",
+    "price": "999",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uvtbklsh47ihwav0gcqv",
+    "category": "pizza-hut",
+    "desc": "Super Saver Meal Combo @ 999 - 2 Medium Non Veg San Francisco Style Pizza of Choice, 2 Garlic Breadstixs, 2 Pepsi Pet Bottles."
+  },
+  {
+    "name": "Momo Mia Pizza - Veg",
+    "price": "279",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cqntqn92nm4fte7ne4cx",
+    "category": "pizza-hut",
+    "desc": "Epic combination of signature pan crust, delicious paneer & veg momos topped with spicy Schezwan sauce, onion, capsicum, sweet corn & 100% mozzarella"
+  },
+  {
+    "name": "Momo Mia Pizza - Non Veg",
+    "price": "309",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/opxq7umcgblgb5ff53ei",
+    "category": "pizza-hut",
+    "desc": "Epic combination of signature pan crust, delicious chicken momos topped with spicy Schezwan sauce, Schezwan meatballs, onion, capsicum & 100% mozzarella"
+  },
+  {
+    "name": "Baked Cheesy Momos - Veg",
+    "price": "185",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gmxf5m3a5z2iqbc9piba",
+    "category": "pizza-hut",
+    "desc": "Paneer & veg momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !"
+  },
+  {
+    "name": "Baked Cheesy Momos - Non Veg",
+    "price": "205",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vh0dyarbhoimnvzsozwh",
+    "category": "pizza-hut",
+    "desc": "Chicken momos baked in spicy Schezwan sauce & creamy mayo, topped with mozerella cheese. Baked to perfection !"
+  },
+  {
+    "name": "Momo Mia Meal for 1 Veg",
+    "price": "299",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gl8ux45yldgajxpmm4pe",
+    "category": "pizza-hut",
+    "desc": "EPIC “Meal for 1” deal – Get 1 Veg Personal Momo Mia pizza and 1 Pepsi PET  "
+  },
+  {
+    "name": "Momo Mia Meal for 1 Non Veg",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/emdjnkjx7k2j2rpjsxt9",
+    "category": "pizza-hut",
+    "desc": "EPIC “Meal for 1” deal – Get 1 Non Veg Personal Momo Mia pizza and 1 Pepsi PET  "
+  },
+  {
+    "name": "Momo Mia Choco Sundae Meal for 1 Veg",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gvhv1o44ebgpfvys2xop",
+    "category": "pizza-hut",
+    "desc": "Enjoy \"Meal for 1\" with 1 Veg Personal Momo Mia pizza and 1 Choco Sundae (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Momo Mia Choco Sundae Meal for 1 Non Veg",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ugmrey03qow4fhq14qx2",
+    "category": "pizza-hut",
+    "desc": "Enjoy \"Meal for 1\" with 1 Non Veg Momo Mia pizza and 1 Choco Sundae (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Baked Cheesy Momo Meal for 1 Veg",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qwax8d7hxmon8dd4ssrf",
+    "category": "pizza-hut",
+    "desc": "Drool over \"Meal for 1\" with 1 Veg Baked Cheesy Momo and 1 Pepsi PET  "
+  },
+  {
+    "name": "Baked Cheesy Momo Meal for 1 Non Veg",
+    "price": "249",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vnautiima746ivi2yb7r",
+    "category": "pizza-hut",
+    "desc": "Drool over \"Meal for 1\" with 1 Non-Veg Baked Cheesy Momo and 1 Pepsi PET  "
+  },
+  {
+    "name": "Momo Dip",
+    "price": "25",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/niii3p405awowmkmdzgu",
+    "category": "pizza-hut",
+    "desc": "Schezwan Dip"
+  },
+  {
+    "name": "Kebab e Crust Sausage Meal for 2",
+    "price": "549",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hrqfg55n8a1n9cihhkvf",
+    "category": "pizza-hut",
+    "desc": "1 Med Chicken sausage Kebab Crust, 1 Garlic bread stix and  1 Pepsi Pet"
+  },
+  {
+    "name": "Kebab e Crust Tikka Meal for 2",
+    "price": "649",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/w4oupeqx1exkwq8ybhq9",
+    "category": "pizza-hut",
+    "desc": "1 Med Chicken tikka/Malai tikka Kebab Crust, 1 Garlic bread stix and  1 Pepsi Pet"
+  },
+  {
+    "name": "2 Personal Veg Pizzas @ Rs 429",
+    "price": "429",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xgqlqtxaffpoydju8mx8",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg personal pan pizzas @ Rs 429 only"
+  },
+  {
+    "name": "2 Personal Veg Pizzas @ Rs-479",
+    "price": "479",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mlz5mhaljkfvsnq6dlwz",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg personal pan pizzas @ Rs 479 only"
+  },
+  {
+    "name": "2 Personal Non-Veg Pizzas @ Rs 479",
+    "price": "479",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kx6alagvpilvu1zxeto6",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg personal pan pizzas @ Rs 479 only"
+  },
+  {
+    "name": "2 Personal Non-Veg Pizzas @ Rs-529",
+    "price": "529",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wrwu0vh1nlo9a3lkuils",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg personal pan pizzas @ Rs 529 only"
+  },
+  {
+    "name": "2 Medium Veg Pizzas @ Rs 324 each",
+    "price": "648",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/k2pmgb7ufykvfd1otlwz",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg medium pan pizzas @ Rs 324 each"
+  },
+  {
+    "name": "2 Medium Veg Pizzas @ Rs-379 each",
+    "price": "788",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dvyzgquplwzwmzmcrghn",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg medium pan pizzas @ Rs 379 each"
+  },
+  {
+    "name": "2 Medium Veg Pizzas @ Rs 494-each",
+    "price": "988",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vadb750yfraod64shcas",
+    "category": "pizza-hut",
+    "desc": "Get 2 veg medium pan pizzas @ Rs 494 each"
+  },
+  {
+    "name": "2 Medium Non-Veg Pizzas @ Rs 394 each",
+    "price": "788",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hwt6e8xanytrodxi3wtc",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg medium pan pizzas @ Rs 394 each"
+  },
+  {
+    "name": "2 Medium Non-Veg Pizzas @ Rs-494 each",
+    "price": "988",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kmyo2zyn3v6mcxvcuprs",
+    "category": "pizza-hut",
+    "desc": "Get 2 Non-Veg medium pan pizzas @ Rs 494 each"
+  },
+  {
+    "name": "Hut favourite for 2 veg @ Rs 399",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/axge4xxslcurourtwonr",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Pizza (Upto delight range) and 1 Garlic Bread stix"
+  },
+  {
+    "name": "Hut favourite for 2 non-veg @ Rs 499",
+    "price": "499",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/my9iauconulx4ocfpesl",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Non-Veg Pizza (Upto delight range) and 1 Garlic Bread stix"
+  },
+  {
+    "name": "3 Course Meal for 2 Veg @ Rs 449",
+    "price": "449",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vwnwg3wkh8vamngsc7nt",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Pizza (Upto delight range), 1 Garlic Bread stix and Pepsi Pet @ Rs 449"
+  },
+  {
+    "name": "3 Course Meal for 2 Non-veg @ Rs 549",
+    "price": "549",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/p8zkqvj60ica2mwp8pn4",
+    "category": "pizza-hut",
+    "desc": "Get choice of 1 Medium Non-Veg Pizza (Upto delight range), 1 Garlic Bread stix and Pepsi Pet @ Rs 549"
+  },
+  {
+    "name": "Hut favourite for 4 Veg @ Rs 775",
+    "price": "775",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vjh1qxlsl3rwoiuvzpxw",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "Hut favourite for 4 Non-Veg @ Rs 875",
+    "price": "875",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szdkerhannjnbprhcl1x",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "Hut favourite for 4 Veg @ Rs-875",
+    "price": "875",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/md9savtkrgmp9zcj1cq3",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto  signature range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "Hut favourite for 4 Non-Veg @ Rs-975",
+    "price": "975",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/wwavyrlukgpmi5e5ednt",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto  signature range), 1 Garlic Bread stix and 1 Creamy Garlic Bread Stix"
+  },
+  {
+    "name": "3 Course Meal for 4 Veg @ Rs 889",
+    "price": "889",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/eysv1xnjzmoi9visrmmn",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix, 1 Creamy Garlic Bread Stix and 2 Pepsi Pet"
+  },
+  {
+    "name": "3 Course Meal for 4 Non-Veg @ Rs 989",
+    "price": "989",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xm7ckayttyktthjinri8",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto delight range), 1 Garlic Bread stix, 1 Creamy Garlic Bread Stix and 2 Pepsi Pet"
+  },
+  {
+    "name": "3 Course Meal for 4 Veg @ Rs-989",
+    "price": "989",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vfdthw3inxwrhxutdv6q",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto  signature range), 1 Garlic Bread stix, 1 Creamy Garlic Bread Stix and 2 Pepsi Pet"
+  },
+  {
+    "name": "3 Course Meal for 4 Non-Veg @ Rs-1089",
+    "price": "1089",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aubglb4fnm6xgg2dycvl",
+    "category": "pizza-hut",
+    "desc": "Get choice of 2 Medium Pizzas (upto  signature range), 1 Garlic Bread stix,1 Creamy Garlic Bread Stix and 2 Pepsi Pet"
+  },
+  {
+    "name": "My Box Pasta Veg starting @ 239",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qkkxxf36pkc9dnru0lzg",
+    "category": "pizza-hut",
+    "desc": "1 Veg Pasta, 2 Pc Plain Garlic Bread & 1 Pepsi Pet"
+  },
+  {
+    "name": "My Box Pasta Non Veg starting @ 269",
+    "price": "269",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xrr40dezvv99rj79zmr9",
+    "category": "pizza-hut",
+    "desc": "1 Non Veg Pasta, 2 Pc Plain Garlic Bread & 1 Pepsi Pet"
+  },
+  {
+    "name": "My Box-Veg Starting @ Rs. 209",
+    "price": "209",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zxmqti0fa89nk5qm2clc",
+    "category": "pizza-hut",
+    "desc": "1 Personal Veg Pizza , 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "My Box Non-Veg Starting at Rs. 269",
+    "price": "269",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xfcjuhun5uxrmjzcdhlf",
+    "category": "pizza-hut",
+    "desc": "1 Personal Non-Veg Pizza , 2 Pcs Garlic Bread & Pepsi Pet"
+  },
+  {
+    "name": "Margherita",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d22idtuzffj7fogkgxx2",
+    "category": "pizza-hut",
+    "desc": "Nothing but cheese!"
+  },
+  {
+    "name": "Tandoori Onion",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ika0uwolx7self8hxn2j",
+    "category": "pizza-hut",
+    "desc": "Cheese & Onion in tandoori sauce"
+  },
+  {
+    "name": "Corn & Cheese",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pl5htqqu9r1jw4wurrmk",
+    "category": "pizza-hut",
+    "desc": "Cheese & sweet corn."
+  },
+  {
+    "name": "Veggie Tandoori",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cbagakbeemtg9otjvwjb",
+    "category": "pizza-hut",
+    "desc": "Onion, green capsicum & mushroom in tandoori sauce"
+  },
+  {
+    "name": "Veggie Feast",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pqrhrbkjauhuz9unzwvr",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, sweet corn."
+  },
+  {
+    "name": "Spiced Paneer",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dzgcxl39qk2teqgetgsu",
+    "category": "pizza-hut",
+    "desc": "Spicy Paneer | Onion | Tomatoes | Cheese"
+  },
+  {
+    "name": "Double Cheese",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ctk8sdwfnqowspqf5irt",
+    "category": "pizza-hut",
+    "desc": "Nothing but classic cheese with more cheese!"
+  },
+  {
+    "name": "Veg Kebab Surprise",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xpyhogssomeuyxuvyx8u",
+    "category": "pizza-hut",
+    "desc": "Veg kebab, onion, green capsicum, tomato & sweet corn in tandoori sauce"
+  },
+  {
+    "name": "Tandoori Paneer",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/cijuato5w3n7a28jc4vg",
+    "category": "pizza-hut",
+    "desc": "Spiced paneer, onion, green capsicum & red paprika in tandoori sauce"
+  },
+  {
+    "name": "Farmers Pick",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bbqw7rozorossijr2oub",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, red capsicum, mushroom & baby corn"
+  },
+  {
+    "name": "Country Feast",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/dlrtuuvmgqxsmzqujqyi",
+    "category": "pizza-hut",
+    "desc": "Herbed onion & green capsicum, sweet corn, tomato & mushroom"
+  },
+  {
+    "name": "Veggie Supreme",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sgbobtbxlojbtdnr2m5k",
+    "category": "pizza-hut",
+    "desc": "Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese"
+  },
+  {
+    "name": "Exotica",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/co7qkelabauvi0nzhelc",
+    "category": "pizza-hut",
+    "desc": "Red Capsicum|Green Capsicum| Baby corn|black olives |Jalapenos & Cheese"
+  },
+  {
+    "name": "Double Paneer Supreme",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/js34orwfcvfbvcxnyyvl",
+    "category": "pizza-hut",
+    "desc": "Spiced paneer, herbed onion & green capsicum and red paprika"
+  },
+  {
+    "name": "Chicken Sausage",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bcfjrbpshgaegrbhy18e",
+    "category": "pizza-hut",
+    "desc": "Cheesy Chicken Sausages | Onion"
+  },
+  {
+    "name": "Spiced Chicken Meatballs",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/whnpt7bq6waynbyp5xh8",
+    "category": "pizza-hut",
+    "desc": "Schezwan chicken meatball & onion"
+  },
+  {
+    "name": "Double Chicken Sausage",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zcnopszrh1or7inty4xs",
+    "category": "pizza-hut",
+    "desc": "Chicken Sausage"
+  },
+  {
+    "name": "Chicken Pepperoni",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sobexnqzbysez8ystpzp",
+    "category": "pizza-hut",
+    "desc": "Chicken Pepperoni |topped with cheese"
+  },
+  {
+    "name": "Chicken N Corn Delight",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/llcrloxug4njvqffgwhw",
+    "category": "pizza-hut",
+    "desc": "Herbed chicken, sweet corn & green capsicum"
+  },
+  {
+    "name": "Malai Chicken Tikka",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/oxlfo6zcgemww9lptmmw",
+    "category": "pizza-hut",
+    "desc": "Chicken malai tikka, herbed onion & green capsicum and red paprika"
+  },
+  {
+    "name": "Italian Chicken Feast",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v5gmfizinqddnv1wvurw",
+    "category": "pizza-hut",
+    "desc": "Chicken sausage, chicken pepperoni, sweet corn, black olive & jalapeno"
+  },
+  {
+    "name": "Chicken Tikka",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xt8zrp5gn4s76nkxzcuu",
+    "category": "pizza-hut",
+    "desc": "Chicken Tikka chunks topped with tomatoes |onions | Cheese"
+  },
+  {
+    "name": "Chicken Pepper Crunch",
+    "price": "349",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nn5rawqdo7mfia6kihrp",
+    "category": "pizza-hut",
+    "desc": "Herbed chicken, onion, green capsicum & red capsicum"
+  },
+  {
+    "name": "Triple Chicken Feast",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/flrbyptxa374zsgocajm",
+    "category": "pizza-hut",
+    "desc": "Schezwan chicken meatball, herbed chicken, chicken sausage, green capsicum, onion & red paprika"
+  },
+  {
+    "name": "Chicken Tikka Supreme",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lq2blmz4qdnrar3rpjin",
+    "category": "pizza-hut",
+    "desc": "Chicken tikka, chicken malai tikka, onion & red paprika"
+  },
+  {
+    "name": "Chicken Supreme",
+    "price": "399",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mkiopegydp504qadvovm",
+    "category": "pizza-hut",
+    "desc": "Herbed chicken, schezwan chicken meatball & chicken tikka"
+  },
+  {
+    "name": "Hut Treat Meal for 2 - Veg",
+    "price": "449",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/szonhfmlkwrlkhynrnh9",
+    "category": "pizza-hut",
+    "desc": "1 Medium Veg Pizza up to Signature, 1 Gralic Bread, 1 Pepsi"
+  },
+  {
+    "name": "Hut Treat Meal for 2 - Non Veg",
+    "price": "499",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u6dwetaf7ysi3puifs1b",
+    "category": "pizza-hut",
+    "desc": "1 Medium Non Veg Pizza up to Signature, 1 Garlic Bread, 1 Pepsi"
+  },
+  {
+    "name": "Jalapeno Poppers",
+    "price": "109",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ugtefjpj1ykoabvpqgwj",
+    "category": "pizza-hut",
+    "desc": "Jalapano poppers with gooey white sauce."
+  },
+  {
+    "name": "Garlic Breadstix",
+    "price": "99",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ruo3xjwfe1s0p0nyrrtd",
+    "category": "pizza-hut",
+    "desc": "Garlic Breadsticks, the perfect pizza companion."
+  },
+  {
+    "name": "Potato Poppers",
+    "price": "99",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/l57jhuxvqvre6bknpwdp",
+    "category": "pizza-hut",
+    "desc": "Baked chilli garlic potato bites."
+  },
+  {
+    "name": "Tear & Share Veg",
+    "price": "169",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rs8o04pyhgaw6mvo5s0h",
+    "category": "pizza-hut",
+    "desc": "Garlic bread stix stuffed & topped with Mozzarella Cheese, creamy mayo and Jalapeno. Cheese lovers delight. Tear it to share it !"
+  },
+  {
+    "name": "Tear & Share Non-Veg",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nksjefpxcsaalijxqovk",
+    "category": "pizza-hut",
+    "desc": "Garlic bread stix stuffed & topped with Mozzarella Cheese, creamy mayo and Chicken Pepperoni. Cheese lovers delight. Tear it to share it !"
+  },
+  {
+    "name": "Mexican Garlic Breadstix",
+    "price": "139",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g2p0lj1pfrbtxhd9rrhf",
+    "category": "pizza-hut",
+    "desc": "Freshly baked San Francisco Style breadsticks topped with chopped onion, green capsicum, red capsicum, jalapeno, black olives & drizzled with olive oil"
+  },
+  {
+    "name": "Creamy Garlic Breadsticks",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/h969hjbthmnuqevte9qj",
+    "category": "pizza-hut",
+    "desc": "Classic Garlic breadsticks with a twist of creamy sauce"
+  },
+  {
+    "name": "Cheese Garlic Bread",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/apkptbre2ktvogzfaxgf",
+    "category": "pizza-hut",
+    "desc": "Nothing beats our garlic bread! Period!"
+  },
+  {
+    "name": "Spicy Baked Chicken Wings",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vp7glubwznr2otbcdmwj",
+    "category": "pizza-hut",
+    "desc": "Tender and Juicy sweet chilli chicken wings."
+  },
+  {
+    "name": "Indi Rockin Roll Veg",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kykojoir9bcnc53urtkp",
+    "category": "pizza-hut",
+    "desc": "Soft tortilla roll stuffed with veg kebab, mint mayo & melted mozzarella cheese goodness"
+  },
+  {
+    "name": "Spicy Baked Chicken Wings (4 pc)",
+    "price": "149",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/so3kntatseexhjpecgx5",
+    "category": "pizza-hut",
+    "desc": "4 pcs of Tender and Juicy sweet chilly chicken wings."
+  },
+  {
+    "name": "Indi Rockin Roll Non Veg",
+    "price": "189",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xy8lwhmcbsoavhp3jgj7",
+    "category": "pizza-hut",
+    "desc": "Soft tortilla roll stuffed with chicken tikka, mint mayo & melted mozzarella cheese goodness"
+  },
+  {
+    "name": "Garlic Bread Spicy Supreme",
+    "price": "159",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ugt6b5v26ewxcnaj6cr4",
+    "category": "pizza-hut",
+    "desc": "Garlic bread topped with (Mozzarella cheeese , onion & green chillies )."
+  },
+  {
+    "name": "Zesty Paneer Pocket",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gonkdczhvpedbjvbtybc",
+    "category": "pizza-hut",
+    "desc": "Freshly baked pocket stuffed with flavourful paneer, veggies & smoked texas garlic sauce"
+  },
+  {
+    "name": "Zesty Chicken Pocket",
+    "price": "139",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gonkdczhvpedbjvbtybc",
+    "category": "pizza-hut",
+    "desc": "Freshly baked pocket stuffed with chicken, veggies & smoked texas garlic sauce"
+  },
+  {
+    "name": "Veg Mayonnaise Dip",
+    "price": "28.57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9aiouo0vuqhyuj957k",
+    "category": "pizza-hut",
+    "desc": "Veg Mayonnaise Dip 20 Gm"
+  },
+  {
+    "name": "Cheesy Dip",
+    "price": "28.57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uv6rjb1bucptraus6era",
+    "category": "pizza-hut",
+    "desc": "Cheesy Jalapeno Dip 20 Gm"
+  },
+  {
+    "name": "Creamy Mushroom Pasta",
+    "price": "289",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ekuwk2n0vb1chuxnxmmx",
+    "category": "pizza-hut",
+    "desc": "Pasta in a rich creamy mushroom sauce flavored with garlic & parsley!"
+  },
+  {
+    "name": "Cheesy Comfort",
+    "price": "229",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tw1kkhtkqlzscmnseqgn",
+    "category": "pizza-hut",
+    "desc": "Cheesy creamy pasta comfort topped with onion, green capsicum, red capsicum & sweet corn"
+  },
+  {
+    "name": "Cheesy Comfort - Non Veg",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/udj8qd85usqa82346z5m",
+    "category": "pizza-hut",
+    "desc": "Cheesy creamy pasta comfort topped with chicken sausage, onion, green capsicum & red capsicum"
+  },
+  {
+    "name": "Spiced Tomato Twist Veg",
+    "price": "199",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/r9klowhkifp7k5z5nggf",
+    "category": "pizza-hut",
+    "desc": "Tangy flavourful red sauce pasta infused with heavenly herbs & spices topped with onion, green capsicum & red capsicum"
+  },
+  {
+    "name": "Spiced Tomato Twist Non Veg",
+    "price": "239",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bq8jg3jv8smsbalt3wgs",
+    "category": "pizza-hut",
+    "desc": "Tangy flavourful red sauce pasta infused with heavenly herbs & spices topped with chicken sausage"
+  },
+  {
+    "name": "My Box (Veg) with Choco Sundae",
+    "price": "259",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hv2qkkljw6arpcfhcvik",
+    "category": "pizza-hut",
+    "desc": "1 Personal Veg Pizza, 2 Pc Garlic Bread, 1 Pepsi Pet Bottle and 1 Choco Sundae cup (100 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "My Box (Non Veg) with Choco Sundae",
+    "price": "319",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/p8lqwng3ow4udkmbyhrp",
+    "category": "pizza-hut",
+    "desc": "1 Personal Non Veg Pizza, 2 Pc Garlic Bread, 1 Pepsi Pet Bottle and 1 Choco Sundae cup (100 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Cheese & Chocolate",
+    "price": "299",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ddldpdpn8m5ppyaaq6ur",
+    "category": "pizza-hut",
+    "desc": "1 Double Cheese Personal Pan & 1 Magnum Truffle (Inclusive of ice cream handling charges)"
+  },
+  {
+    "name": "Funtastic 4 (Veg) with Choco Sundae",
+    "price": "685",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rjxk3kooksyfidzgadwf",
+    "category": "pizza-hut",
+    "desc": "4 Veg Pizzas: Your 4 Favorites From Menu - Spiced Paneer, Veggie Feast, Margherita and Corn & Cheese - with 4 Choco Sundae cups (100 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Funtastic 4 with Choco Sundae",
+    "price": "735",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xwkc9lsdjufvbgxgtmd6",
+    "category": "pizza-hut",
+    "desc": "2 Veg + 2 Non Veg Pizzas: Your 4 Favorites From Menu - Chicken Sausage, Spiced Chicken Meatballs, Margherita and Corn & Cheese - with 4 Choco Sundae cups (100 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Water Bottle - 1000ml",
+    "price": "47.50",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g3y6lpfijqdb1tkegpye",
+    "category": "pizza-hut",
+    "desc": "Water Bottle @50"
+  },
+  {
+    "name": "Pepsi Black",
+    "price": "57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jmutgkfrr5ud0795tbnj",
+    "category": "pizza-hut",
+    "desc": ""
+  },
+  {
+    "name": "7up Pet Bottle",
+    "price": "57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/u7ffotpljriczzk4y5tn",
+    "category": "pizza-hut",
+    "desc": ""
+  },
+  {
+    "name": "Mirinda Pet Bottle",
+    "price": "57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qxmwdrlp1uydqox83gyb",
+    "category": "pizza-hut",
+    "desc": ""
+  },
+  {
+    "name": "Pepsi Pet Bottle",
+    "price": "57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/adn6fie4bf2lyvxb42ui",
+    "category": "pizza-hut",
+    "desc": ""
+  },
+  {
+    "name": "Choco Sundae (Inclusive of frozen dessert handling charges)",
+    "price": "43.57",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xnkt3bmairu3xxesf42p",
+    "category": "pizza-hut",
+    "desc": "Choco Sundae Cup (100 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Cornetto Double Chocolate (Inclusive of frozen dessert handling charges)",
+    "price": "53.10",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/b75oepeojc0o686gma07",
+    "category": "pizza-hut",
+    "desc": "Cornetto Double Chocolate Cone (105 ml) (Inclusive of frozen dessert handling charges)"
+  },
+  {
+    "name": "Magnum Truffle (Inclusive of ice cream handling charges)",
+    "price": "91.19",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/uxivybd9xhqbbnsean8g",
+    "category": "pizza-hut",
+    "desc": "Magnum Truffle (80 ml) (Inclusive of ice cream handling charges)"
+  },
+  {
+    "name": "Divine Chocolate (Tub) (Inclusive of frozen dessert handling charges)",
+    "price": "242.60",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tzb6fr0z06lhygtxtnd8",
+    "category": "pizza-hut",
+    "desc": "Divine Chocolate (700 ml) (Inclusive of frozen dessert handling charges)"
+  }
+]

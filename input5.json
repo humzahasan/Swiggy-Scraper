@@ -1,0 +1,653 @@
+[
+  {
+    "name": "Four Topping Pizza",
+    "price": "420",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/odacktvqoujmgsaeusr0",
+    "category": "chai-break",
+    "desc": "Hand tossed thin crust Italian vegetable pizza, with any 4 toppings of your choice(olive, bell peppers, spinach, mushroom, zucchini, baby corn, american corn or onion) and mozarella cheese. Freshly Baked to perfection and garnished with parmesan cheese."
+  },
+  {
+    "name": "Margherita Pizza",
+    "price": "370",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/abv5ctwywz2orkacw6w9",
+    "category": "chai-break",
+    "desc": "Our Signature Traditional Hand tossed thin crust Italian pizza, embedded with tomato sauce, Fresh Basil, Mozzarella cheese and  drizzled with Extra Virgin Olive oil. Freshly Baked to perfection and garnished with parmesan cheese."
+  },
+  {
+    "name": "Veg Peri Peri Pizza",
+    "price": "420",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d3up9gqku9s2baw5cwno",
+    "category": "chai-break",
+    "desc": "Hand tossed thin crust spicy pizza topped with Peri Peri Sauce, mozzarella cheese & Assorted Vegetables( corn, bellpepper, onion,zuccinni and babycorn).Freshly baked to perfection and garnished with Coriander leaves."
+  },
+  {
+    "name": "Paneer Tikka Lababdar Combo",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lgwjqb80cl40o6aipnxe",
+    "category": "chai-break",
+    "desc": "Dal Makhni, Paneer Tikka infused in rich Tomato Makhni & Yellow gravy with chopped bell peppers. Served along with choice of bread,"
+  },
+  {
+    "name": "Kadhai Paneer Combo",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hdqnuok32umxvluhgric",
+    "category": "chai-break",
+    "desc": "Portion of Succulent Marinated paneer with inhouse chef special kadhai masala, infused along with Rich Yellow Makhni gravy. Served along with Jeera rice"
+  },
+  {
+    "name": "Chilli Garlic Noodles Combo",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g5f4veg5gzvg1slp4meo",
+    "category": "chai-break",
+    "desc": "Chilli Garlic noodles flavoured with chopped garlic, served along with Manchurian Balls in soya based gravy( 3pc). Perfect Indulgent Combo for a Chinese Lover."
+  },
+  {
+    "name": "Mixed Sauce Pasta",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tyl73vrodqcdhze0twqw",
+    "category": "chai-break",
+    "desc": "Choice of Pasta ( Penne/ Spaghetti) cooked in a combination of Creamy White sauce and Velvety Tomato sauce, well seasoned with Exotic vegetables. Garnished with Processed and Parmesan Cheese and Served along with a slice of Freshly baked Garlic Bread."
+  },
+  {
+    "name": "Spaghetti Aglio Olio",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/useqilddoy5jzhrtow2c",
+    "category": "chai-break",
+    "desc": "Sphagetti pasta tossed in Extra Virgin Olive oil with a strong flavour of Garlic, Basil, Parsley and Capers. Garnished with Parmesan cheese and Served along with  a Slice of Freshly Baked garlic Bread."
+  },
+  {
+    "name": "Alfredo Pasta",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vhtrzd2lnqf0wztzxolv",
+    "category": "chai-break",
+    "desc": "Creamy, Cheese loaded White sauce pasta tossed with Exotic vegetables, Garlic thyme and Garnished with parsley and parmesan cheese. Served along with  a Slice of Freshly Baked garlic Bread."
+  },
+  {
+    "name": "Homemade Ravioli in Mixed Sauce",
+    "price": "385",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vjhsureu4gwpxn9irrfe",
+    "category": "chai-break",
+    "desc": "A Celebratory Dish intricately crafted in square shaped Inhouse pasta , stuffed with spinach and ricotta cheese tossed along wiith mix sauce. Garnished with parmesan cheese."
+  },
+  {
+    "name": "Grilled Vegetables with Mixed Sauce Risotto",
+    "price": "395",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/shvklskvvbdh0mzeyd5h",
+    "category": "chai-break",
+    "desc": "An Italian dish made with Arborio rice,  blended in our rich home made Red tomato sauce and Creamy white sauce,  served with grilled exotic vegetables. Garnished with Parmesan cheese and Basil."
+  },
+  {
+    "name": "Crispy Chilli Babycorn",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ulfj7vmatulg7gx2yu3g",
+    "category": "chai-break",
+    "desc": "A mouthwatering dish prepared with tender baby corn, fried to golden brown and mixed with spicy sauces. Garnished with spring onions."
+  },
+  {
+    "name": "House Special Cheese Garlic Bread",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ixap4o3fnfjzbq0ne4fe",
+    "category": "chai-break",
+    "desc": "A CB must have - House made thin crust bread,  Baked with Fresh Rosemary flavoured herbs, Garlic butter, mozzarella cheese  and chef's secret seasoning. Served along with Hari-sa and Garlic Mayo dip."
+  },
+  {
+    "name": "Mexican Wrap",
+    "price": "300",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zh5vgcd8tkrx7fi3czpc",
+    "category": "chai-break",
+    "desc": "Home made tortilla filled with onion, capsicum, jalapeno, tomato,coriander, cumin, garlic and green chilli. A complete fusion of sweet, tangy and spicy burst of flavours. Grilled till perfection and served along with french fries and mexican salsa dip."
+  },
+  {
+    "name": "Achari Paneer Tikka",
+    "price": "310",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y5dnaijbhmyquspy1a8l",
+    "category": "chai-break",
+    "desc": "Feel theTangy ,Mild spicy , Achari chatpata soft paneer magic because Indians love Achar with everything, So why not make your soft juicy protein-packed paneer with this flavor punch!! Cream Cottage cheese cubes marinated with tandoori spice mix, hung curd, onion, capsicum then char-grilled in clay tandoor."
+  },
+  {
+    "name": "Dal Makhani",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nhsnwfxnjzdosfoainbd",
+    "category": "chai-break",
+    "desc": "Authentic Dal Makhni prepared with five variants of lentils. It is simmered overnight over low heat and tempered with fragrant spices to make it creamy and rich at its core. Will fill you with a feeling of contentment and delight."
+  },
+  {
+    "name": "Chilli Garlic Noodles",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lisi6co6k5tija8awvqz",
+    "category": "chai-break",
+    "desc": "Spicy noodles flavoured with chopped garlic and chilli paste, admixed with vegetables. Garnished with spring onion."
+  },
+  {
+    "name": "Hakka Noodles",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nt7jsg13b6o6c2gt2los",
+    "category": "chai-break",
+    "desc": "A delectable non spicy dish with slippery strands of noodles, dressed in a flavorful sauce and tossed along with veggies and spices_Perfect entree to satiate your cravings."
+  },
+  {
+    "name": "Thai Green Curry with Rice",
+    "price": "385",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/s31jxfwg6tknyctcjjca",
+    "category": "chai-break",
+    "desc": "kaffir lemon leaf flavoured steamed rice served with distinct coconut, lemon grass, thai ginger paste seasoned medium spicy green curry."
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "price": "270",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d4gdu6jamxk6v9nflzsi",
+    "category": "chai-break",
+    "desc": "Indulge yourself in the taste of this delicious Vegetable Fried Rice (non spicy) tossed with veggies (carrot, beans) and seasoned in aromatic spices. Curb your hunger with this chinese dish!!"
+  },
+  {
+    "name": "Vegetable Manchurian",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tdbcummw2eiqiypup9zj",
+    "category": "chai-break",
+    "desc": "Spicy and tangy flavoured Vegetable balls tossed with our chilli soya sauce, garnished with coriander leaves(6pc)"
+  },
+  {
+    "name": "Adrak Elaichi Chai Flask ( Serves 4-5,500 ml)",
+    "price": "148",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aza8ndcdratpcpjxmatj",
+    "category": "chai-break",
+    "desc": "An incredibly tasty hot milk beverage, made with fresh hand pounded ginger slices and warm sweetness of cardamom. Will warm you up for every occasion, brewed till perfection with fresh milk and finest tea leaves                                                              (Serves 4-5 in disposable cups.)"
+  },
+  {
+    "name": "Kesar Chai Flask ( Serves 4-5,500 ml)",
+    "price": "148",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/x8phreel2qvr62lkohiv",
+    "category": "chai-break",
+    "desc": "A subtle hot milk beverage laced with delicate and aromatic flavours of saffron , for that lingering after taste. Will tantalize your taste buds, brewed till perfection with fresh milk and finest tea leaves  (Serves 4-5 in disposable cups.)"
+  },
+  {
+    "name": "Royal Chai Flask ( Serves 4-5,500 ml)",
+    "price": "148",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aza8ndcdratpcpjxmatj",
+    "category": "chai-break",
+    "desc": "A strong zesty hot cup of milk tea with twin blend of fragrant saffron and earthy cardamom. Will thrill your senses, brewed till perfection with fresh milk and finest tea leaves (Serves 4-5 in disposable cups.)"
+  },
+  {
+    "name": "Masala Chai Flask ( Serves 4-5,500 ml)",
+    "price": "148",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aza8ndcdratpcpjxmatj",
+    "category": "chai-break",
+    "desc": "Hot milk beverage blended with mace, cinnamom, cloves, cardamom, dry ginger, white and black pepper to give a refreshing cup of tea. Will keep you energized throughout the day, brewed till perfection with fresh milk and finest tea leaves.(Serves 4-5 in disposable cups.)"
+  },
+  {
+    "name": "Dalchini Adrak Chai Flask ( Serves 4-5,500 ml)",
+    "price": "148",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/aza8ndcdratpcpjxmatj",
+    "category": "chai-break",
+    "desc": "A taste of relaxation in your hot cuppa. Milk beverage infused with antioxidant cinnamon and mood lifting fresh ginger.Will wrap you up with freshness,  brewed till perfection with fresh milk and finest tea leaves. .(Serves 4-5 in disposable cups.)"
+  },
+  {
+    "name": "Four Topping Pizza",
+    "price": "420",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/odacktvqoujmgsaeusr0",
+    "category": "chai-break",
+    "desc": "Hand tossed thin crust Italian vegetable pizza, with any 4 toppings of your choice(olive, bell peppers, spinach, mushroom, zucchini, baby corn, american corn or onion) and mozarella cheese. Freshly Baked to perfection and garnished with parmesan cheese."
+  },
+  {
+    "name": "Margherita Pizza",
+    "price": "370",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/abv5ctwywz2orkacw6w9",
+    "category": "chai-break",
+    "desc": "Our Signature Traditional Hand tossed thin crust Italian pizza, embedded with tomato sauce, Fresh Basil, Mozzarella cheese and  drizzled with Extra Virgin Olive oil. Freshly Baked to perfection and garnished with parmesan cheese."
+  },
+  {
+    "name": "Veg Peri Peri Pizza",
+    "price": "420",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d3up9gqku9s2baw5cwno",
+    "category": "chai-break",
+    "desc": "Hand tossed thin crust spicy pizza topped with Peri Peri Sauce, mozzarella cheese & Assorted Vegetables( corn, bellpepper, onion,zuccinni and babycorn).Freshly baked to perfection and garnished with Coriander leaves."
+  },
+  {
+    "name": "Four Cheese Pizza",
+    "price": "445",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ilp7wcweiqdblywlysfc",
+    "category": "chai-break",
+    "desc": "Classic hand tossed thin crust pizza retreat for everyday Cheese Lover overloaded with not 1, not 2,  but 4 types of cheese(mozarella, parmesan, Bocconcini, Amul). Freshly Baked with perfection and garnished with basil leaves."
+  },
+  {
+    "name": "Paneer Tikka Lababdar Combo",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lgwjqb80cl40o6aipnxe",
+    "category": "chai-break",
+    "desc": "Dal Makhni, Paneer Tikka infused in rich Tomato Makhni & Yellow gravy with chopped bell peppers. Served along with choice of bread,"
+  },
+  {
+    "name": "Kadhai Paneer Combo",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/hdqnuok32umxvluhgric",
+    "category": "chai-break",
+    "desc": "Portion of Succulent Marinated paneer with inhouse chef special kadhai masala, infused along with Rich Yellow Makhni gravy. Served along with Jeera rice"
+  },
+  {
+    "name": "Veg Biryani Combo",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g5tl80bcjdx8yblohbeb",
+    "category": "chai-break",
+    "desc": "Aromatic Biryani rice slow cooked in dum with assorted vegetables ( Carrot, Beans, Fried onion, Coriander leaves, Baby potato) and infused with special spices; served along with refreshing raita and dal maknhni."
+  },
+  {
+    "name": "Chilli Garlic Noodles Combo",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g5f4veg5gzvg1slp4meo",
+    "category": "chai-break",
+    "desc": "Chilli Garlic noodles flavoured with chopped garlic, served along with Manchurian Balls in soya based gravy( 3pc). Perfect Indulgent Combo for a Chinese Lover."
+  },
+  {
+    "name": "Veg Manchurian Combo",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/s8522vn4ohqnmedxrovh",
+    "category": "chai-break",
+    "desc": "Veg Manchurian served with choice of Veg Hakka noodles/Veg fried rice/Veg garlic noodles/Veg garlic fried rice."
+  },
+  {
+    "name": "Schezwan Paneer Combo",
+    "price": "240",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/pycqmxfdgw7cfwzi2psn",
+    "category": "chai-break",
+    "desc": "Cubes of paneer (4pc) fried crisp, tossed with hot and fiery spicy Schezwan sauce, onion and bellpeppers. Served with choice of noodles or rice along with kimchi salad."
+  },
+  {
+    "name": "Veg Thai Green Curry Combo",
+    "price": "240",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/atupk0hphwepeloyvhcb",
+    "category": "chai-break",
+    "desc": "kaffir lemon leaf flavoured steamed rice served with distinct coconut, lemon grass, thai ginger paste seasoned spicy green curry."
+  },
+  {
+    "name": "Mixed Sauce Pasta",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tyl73vrodqcdhze0twqw",
+    "category": "chai-break",
+    "desc": "Choice of Pasta ( Penne/ Spaghetti) cooked in a combination of Creamy White sauce and Velvety Tomato sauce, well seasoned with Exotic vegetables. Garnished with Processed and Parmesan Cheese and Served along with a slice of Freshly baked Garlic Bread."
+  },
+  {
+    "name": "Spaghetti Aglio Olio",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/useqilddoy5jzhrtow2c",
+    "category": "chai-break",
+    "desc": "Sphagetti pasta tossed in Extra Virgin Olive oil with a strong flavour of Garlic, Basil, Parsley and Capers. Garnished with Parmesan cheese and Served along with  a Slice of Freshly Baked garlic Bread."
+  },
+  {
+    "name": "Alfredo Pasta",
+    "price": "365",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vhtrzd2lnqf0wztzxolv",
+    "category": "chai-break",
+    "desc": "Creamy, Cheese loaded White sauce pasta tossed with Exotic vegetables, Garlic thyme and Garnished with parsley and parmesan cheese. Served along with  a Slice of Freshly Baked garlic Bread."
+  },
+  {
+    "name": "Homemade Ravioli in Mixed Sauce",
+    "price": "385",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vjhsureu4gwpxn9irrfe",
+    "category": "chai-break",
+    "desc": "A Celebratory Dish intricately crafted in square shaped Inhouse pasta , stuffed with spinach and ricotta cheese tossed along wiith mix sauce. Garnished with parmesan cheese."
+  },
+  {
+    "name": "Al Fredo Risotto",
+    "price": "395",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zkglfarmuuwywwdzjtlh",
+    "category": "chai-break",
+    "desc": "Arborio rice flavoured with Pesto sauce."
+  },
+  {
+    "name": "Grilled Vegetables with Mixed Sauce Risotto",
+    "price": "395",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/shvklskvvbdh0mzeyd5h",
+    "category": "chai-break",
+    "desc": "An Italian dish made with Arborio rice,  blended in our rich home made Red tomato sauce and Creamy white sauce,  served with grilled exotic vegetables. Garnished with Parmesan cheese and Basil."
+  },
+  {
+    "name": "Crispy Chilli Babycorn",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ulfj7vmatulg7gx2yu3g",
+    "category": "chai-break",
+    "desc": "A mouthwatering dish prepared with tender baby corn, fried to golden brown and mixed with spicy sauces. Garnished with spring onions."
+  },
+  {
+    "name": "Crispy Chilli Potato",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lclysqwa2utcxoyrb6vn",
+    "category": "chai-break",
+    "desc": "Crispy fried diced potatoes tossed in a medley of chilli garlic sauce, condiments,  onion and capsicum."
+  },
+  {
+    "name": "Sauteed Mushroom",
+    "price": "335",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d1mnr93ns8wu4hz237hl",
+    "category": "chai-break",
+    "desc": "A delightfully delectable dish prepared with butter tossed button mushroom and thyme. Garnished along with parmesan cheese."
+  },
+  {
+    "name": "Crispy Chilli Mushroom",
+    "price": "275",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gtvdfavahs8sfeblzjbz",
+    "category": "chai-break",
+    "desc": "Crispy fried  mushroom tossed with garlic, onions, flavored with in house sauces."
+  },
+  {
+    "name": "Sauteed Vegetables",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/z3l7xeyvcnrgeotyunb6",
+    "category": "chai-break",
+    "desc": "Savour this deliciously cooked healthy appetizer prepared with assorted fresh carrot, beans, brocolli, bellpeppers,zucchini , babycorn and thyme tossed in olive oil."
+  },
+  {
+    "name": "Shanghai Paneer",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mfetadqhxty3h2qr3h1r",
+    "category": "chai-break",
+    "desc": "Aromatic flavour of Indian cottage cheese ,deep fried and tossed with diced onions, capsicum, red chilli in a classical style with very spicy chinese sauces and cashewnuts."
+  },
+  {
+    "name": "Falafel with Pita and Hummus",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ksoxwjekynu5ohjfqypy",
+    "category": "chai-break",
+    "desc": "The med special chickpea fritters with pita bread and chickpea tahina dip"
+  },
+  {
+    "name": "House Special Cheese Garlic Bread",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ixap4o3fnfjzbq0ne4fe",
+    "category": "chai-break",
+    "desc": "A CB must have - House made thin crust bread,  Baked with Fresh Rosemary flavoured herbs, Garlic butter, mozzarella cheese  and chef's secret seasoning. Served along with Hari-sa and Garlic Mayo dip."
+  },
+  {
+    "name": "Mexican Wrap",
+    "price": "300",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/zh5vgcd8tkrx7fi3czpc",
+    "category": "chai-break",
+    "desc": "Home made tortilla filled with onion, capsicum, jalapeno, tomato,coriander, cumin, garlic and green chilli. A complete fusion of sweet, tangy and spicy burst of flavours. Grilled till perfection and served along with french fries and mexican salsa dip."
+  },
+  {
+    "name": "Veg Club Sandwich",
+    "price": "265",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xsrxuoitdur92ql8i5cj",
+    "category": "chai-break",
+    "desc": "Packed with protein, this Juicy triple layered Grilled sliced bread sandwich is loaded with garden fresh cucumber , tomtato, lettuce and processed cheese. Served with a side of french fries & chilli mayonnaise."
+  },
+  {
+    "name": "House Special Garlic Bread",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yctntu2s09ljjxeigtr5",
+    "category": "chai-break",
+    "desc": "A CB must have - house made bread baked till perfection.  A gooey delight!"
+  },
+  {
+    "name": "Achari Paneer Tikka",
+    "price": "310",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/y5dnaijbhmyquspy1a8l",
+    "category": "chai-break",
+    "desc": "Feel theTangy ,Mild spicy , Achari chatpata soft paneer magic because Indians love Achar with everything, So why not make your soft juicy protein-packed paneer with this flavor punch!! Cream Cottage cheese cubes marinated with tandoori spice mix, hung curd, onion, capsicum then char-grilled in clay tandoor."
+  },
+  {
+    "name": "Veg Shammi Kebab",
+    "price": "275",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nvpjp7oy0a42a5xm78fn",
+    "category": "chai-break",
+    "desc": "Flavourful mixed vegetable (carrot, beans, green peas, potato, cashewnuts) shallow fried patties, made with ground pulses as the binding agent. Served with Masala onions and refreshing mint chutney."
+  },
+  {
+    "name": "Tandoori Aloo",
+    "price": "265",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/g2lhp9fndry9oupg5ewo",
+    "category": "chai-break",
+    "desc": "Scooped potatoes marinated with red tandoori masala , Skewered with onion and  capsicum.  Roasted In The Earthen Oven to give the smokey experience. Served along with onion salad and mouth refreshing mint chutney."
+  },
+  {
+    "name": "Dal Makhani",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nhsnwfxnjzdosfoainbd",
+    "category": "chai-break",
+    "desc": "Authentic Dal Makhni prepared with five variants of lentils. It is simmered overnight over low heat and tempered with fragrant spices to make it creamy and rich at its core. Will fill you with a feeling of contentment and delight."
+  },
+  {
+    "name": "Paneer Tikka Lababdar",
+    "price": "320",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ifzctgvbo34nanxgcqgf",
+    "category": "chai-break",
+    "desc": "Paneer tikka infused in Rich tomato Makhni gravy & Yellow gravy with chopped bell peppers."
+  },
+  {
+    "name": "Paneer Makhani",
+    "price": "320",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ntmdjrad6fjoep4igpjs",
+    "category": "chai-break",
+    "desc": "A creamy dish with soft paneer chunks cooked in a rich tomato gravy and seasoned with spices and butter."
+  },
+  {
+    "name": "Vegetable Jhalfrezi",
+    "price": "290",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/qhf19ykt8sgwrwtkspkx",
+    "category": "chai-break",
+    "desc": "Assorted vegetables (carrot, beans, bellpeppers, onion) tossed with chopped masala and  medium spicy red gravy. Garnished with coriander and Julienne ginger."
+  },
+  {
+    "name": "Kadhai Paneer",
+    "price": "320",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ph4ttrmiaak0fkzpzsaa",
+    "category": "chai-break",
+    "desc": "Succulent Marinated paneer with inhouse chef special kadhai masala, infused along with rich yellow makhni gravy. A dish an indian food lover can't resist!!"
+  },
+  {
+    "name": "Jeera Aloo",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gcafww466oligdxfvflk",
+    "category": "chai-break",
+    "desc": "A simple yet delish preparation with Combination Of cube sized Potato And Flavourful Cumin Seeds. Garnished with fresh coriander leaves"
+  },
+  {
+    "name": "Dal Tadka",
+    "price": "200",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bnki4h1htrtrek4uaphh",
+    "category": "chai-break",
+    "desc": "Simply delectable yellow lentils topped with a tempering of ghee and spices."
+  },
+  {
+    "name": "Malai Kofta",
+    "price": "295",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rksdwyxnluxzdomccfpf",
+    "category": "chai-break",
+    "desc": "Cottage cheese dumplings in chef's special gravy"
+  },
+  {
+    "name": "Lachha Paratha",
+    "price": "75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/mqqqohnelwn2leodjtwp",
+    "category": "chai-break",
+    "desc": "Multi layered Indian flat bread with daubs of butter, flaky and deliciously fragile with crispy edges ."
+  },
+  {
+    "name": "Potato & Onion Kulcha",
+    "price": "85",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/odpunbt096wpj2i1hgnw",
+    "category": "chai-break",
+    "desc": "Buttery and pillowy stuffed (potato, onion) flour based flatbread with sesame seeds cooked in oven."
+  },
+  {
+    "name": "Butter Naan",
+    "price": "85",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/phbappa4lyg3afbetrtf",
+    "category": "chai-break",
+    "desc": "A flour based flatbread cooked till perfection and glazed with butter."
+  },
+  {
+    "name": "Chilli Garlic Naan",
+    "price": "95",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/v7u93eeuokrinuz7qtf3",
+    "category": "chai-break",
+    "desc": "A flour based flatbread, flavoured with garlic and cooked till perfection"
+  },
+  {
+    "name": "Plain Tandoori Roti",
+    "price": "45",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/gvtgnziqprqrtuqluvyr",
+    "category": "chai-break",
+    "desc": "A Very popular indian flatbread recipe traditionally made with wheat and charcoaled  in tandoor.."
+  },
+  {
+    "name": "Butter Tandoori Roti",
+    "price": "55",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/vi0hz8w9ogi7zv3gu6gb",
+    "category": "chai-break",
+    "desc": "A Very popular indian flatbread recipe traditionally made with wheat ,charcoaled  in tandoor and glazed with butter."
+  },
+  {
+    "name": "Cheese Naan",
+    "price": "130",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bl3jfuzoanfk39yft13c",
+    "category": "chai-break",
+    "desc": "A flour based flatbread infused with cheese and cooked till perfection."
+  },
+  {
+    "name": "Plain Naan",
+    "price": "75",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kokdcb1giqkdpxwd9fvt",
+    "category": "chai-break",
+    "desc": "A flour based flatbread cooked till perfection."
+  },
+  {
+    "name": "Vegetable Biryani",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jzqlfersal6t08jdyyoq",
+    "category": "chai-break",
+    "desc": "Tickle your palate with this aromatic and flavour rich rice dish packed with vegetables and infused with exotic spices"
+  },
+  {
+    "name": "Jeera Rice",
+    "price": "195",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xhvv9qsqzc3eoko2ttyq",
+    "category": "chai-break",
+    "desc": "Aromatic rice cooked in a tempering of cumin and whole spices. Life is nice_With Jeera Rice!!"
+  },
+  {
+    "name": "Chilli Garlic Noodles",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lisi6co6k5tija8awvqz",
+    "category": "chai-break",
+    "desc": "Spicy noodles flavoured with chopped garlic and chilli paste, admixed with vegetables. Garnished with spring onion."
+  },
+  {
+    "name": "Hakka Noodles",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/nt7jsg13b6o6c2gt2los",
+    "category": "chai-break",
+    "desc": "A delectable non spicy dish with slippery strands of noodles, dressed in a flavorful sauce and tossed along with veggies and spices_Perfect entree to satiate your cravings."
+  },
+  {
+    "name": "Thai Green Curry with Rice",
+    "price": "385",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/s31jxfwg6tknyctcjjca",
+    "category": "chai-break",
+    "desc": "kaffir lemon leaf flavoured steamed rice served with distinct coconut, lemon grass, thai ginger paste seasoned medium spicy green curry."
+  },
+  {
+    "name": "Vegetable Fried Rice",
+    "price": "270",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/d4gdu6jamxk6v9nflzsi",
+    "category": "chai-break",
+    "desc": "Indulge yourself in the taste of this delicious Vegetable Fried Rice (non spicy) tossed with veggies (carrot, beans) and seasoned in aromatic spices. Curb your hunger with this chinese dish!!"
+  },
+  {
+    "name": "Green Noodles",
+    "price": "320",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/frab35cus7bi5wkr1trq",
+    "category": "chai-break",
+    "desc": "A Healthy delicacy (non spicy) made with Spinach & Coriander. Tossed in house special Sauce and vegetables."
+  },
+  {
+    "name": "Chilli Garlic Fried Rice",
+    "price": "290",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/lny8ot5actvbbsmplbdr",
+    "category": "chai-break",
+    "desc": "Wok Tossed Fried Rice With Chilli Paste, Garlic Flavours And Small Dices Of Vegetables (medium spicy)"
+  },
+  {
+    "name": "Mongolian Rice/Noodles With Gravy",
+    "price": "420",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ueqb6oup9l9sidopg022",
+    "category": "chai-break",
+    "desc": "Choice of fried rice/noodles/fried rice and noodles with exotic vegetables."
+  },
+  {
+    "name": "Chilli Paneer Tangra Style",
+    "price": "295",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sggqp2s9j8ckqfzgl8av",
+    "category": "chai-break",
+    "desc": "Shallow fried cottage cheese tossed with dice bell pepper,onion in chilli oyester sauce (spicy)."
+  },
+  {
+    "name": "Vegetable Manchurian",
+    "price": "250",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tdbcummw2eiqiypup9zj",
+    "category": "chai-break",
+    "desc": "Spicy and tangy flavoured Vegetable balls tossed with our chilli soya sauce, garnished with coriander leaves(6pc)"
+  },
+  {
+    "name": "Hot Garlic Sauce with Paneer",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/kxcdhiggsbicnusphiym",
+    "category": "chai-break",
+    "desc": "Seasoned and Coated Golden Fried Crispy paneer ( 6pc)  tossed in hot garlic sauce."
+  },
+  {
+    "name": "Hot Garlic Sauce with Vegetables",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/q3ugzg2jo63fupd7zkml",
+    "category": "chai-break",
+    "desc": "Batter-fried veggies tossed in a hot-garlic sauce along with onions and spices, garnished with spring onion. This is your go-to dish when you want little of everything!!"
+  },
+  {
+    "name": "Hot Garlic Sauce with Potato",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ryulmnawvxz03lr8y2ql",
+    "category": "chai-break",
+    "desc": "Fried, skinned baby potatoes tossed in a piquant sauce of chilli & garlic."
+  },
+  {
+    "name": "Schezwan Sauce with Paneer",
+    "price": "285",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/z1kaftxxarm6cmzznfka",
+    "category": "chai-break",
+    "desc": "Diced paneer ( 6 pc) deep coated fried with fiery hot and spicy schezwan sauce.. A spicy preparation to awaken your taste buds."
+  },
+  {
+    "name": "Schezwan Sauce with Potato",
+    "price": "260",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/fbif09o0lmfayvlyckku",
+    "category": "chai-break",
+    "desc": "Skinned baby potato deep coated fried with fiery hot and spicy schezwan sauce. A enciting delicacy."
+  },
+  {
+    "name": "Kitkat Shake",
+    "price": "180",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/tyclzx5wo6m3hrpcidcb",
+    "category": "chai-break",
+    "desc": ""
+  },
+  {
+    "name": "Lemon Iced Tea",
+    "price": "120",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/sn8xt2q4qfuhuejrei0j",
+    "category": "chai-break",
+    "desc": ""
+  },
+  {
+    "name": "Caesar Salad",
+    "price": "225",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/k4ujpf5if5vzoikqhjnh",
+    "category": "chai-break",
+    "desc": "Farm fresh Ice berg lettuce, in homemade Caesar dressing, tossed with herb garlic, sundried tomatoes, cherry tomatoes, olives and  parmesan cheese. Served along with croutons."
+  },
+  {
+    "name": "Belgian Fudge Brownie",
+    "price": "119",
+    "imgSrc": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/jpcddxdcb5yxr3pdmqfv",
+    "category": "chai-break",
+    "desc": "Decadent, fudgy and rich! Dig into the brownie square and let the lush chocolate hit your taste buds with every bite. Contains milk products and gluten."
+  }
+]
